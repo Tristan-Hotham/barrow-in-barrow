@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Is There a Barrow in Barrow?</title>
+<meta name="description" content="English places named from Old English beorg ('mound, hill') tested against 6,100 scheduled burial mounds. Do the names point to the barrows?">
+<meta property="og:title" content="Is there a barrow in Barrow?">
+<meta property="og:description" content="Places named from Old English beorg sit near about as many burial mounds as places named after ordinary hills.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;0,800;1,400&family=IBM+Plex+Sans:wght@400;600&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<style>
+/* Chalk downland: pale turf, flint grey, and a deep earth brown for the mounds themselves. */
+:root{
+  --bg:#f4f2ea; --ink:#22231e; --muted:#5d5f55; --rule:#d6d3c6; --panel:#e9e6da;
+  --mound:#7b4a22; --berg:#b5541c; --hlaw:#8a3b6b; --hill:#4f6d7a; --grove:#3f7a3a; --other:#8b8b80; --link:#25607d;
+  --serif:"Spectral",Georgia,serif; --sans:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#171815;--ink:#e7e6df;--muted:#a6a79c;--rule:#36372f;--panel:#202119;--mound:#d49a62;--berg:#e98a4f;--hlaw:#d58cbc;--hill:#8fb3c2;--grove:#85c27e;--other:#9a9a90;--link:#8cc2e0;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#171815;--ink:#e7e6df;--muted:#a6a79c;--rule:#36372f;--panel:#202119;--mound:#d49a62;--berg:#e98a4f;--hlaw:#d58cbc;--hill:#8fb3c2;--grove:#85c27e;--other:#9a9a90;--link:#8cc2e0;color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 19px/1.62 var(--serif);padding:0 16px}
+main{max-width:1180px;margin:0 auto;padding:44px 0 72px}
+.col{max-width:680px;margin:0 auto}
+h1{font:800 clamp(42px,7.6vw,88px)/1 var(--serif);letter-spacing:-.01em;margin:0 0 18px;text-wrap:balance}
+h1 em{font-weight:400;color:var(--mound)}
+.dek{font-size:22px;line-height:1.45;color:var(--muted);margin:0 0 20px}
+.byline{font:400 14px/1.5 var(--sans);color:var(--muted);border-top:1px solid var(--rule);padding-top:10px}
+h2{font:600 30px/1.15 var(--serif);margin:52px 0 12px;text-wrap:balance}
+p{margin:0 0 16px}
+a{color:var(--link)}
+:focus-visible{outline:3px solid var(--berg);outline-offset:2px}
+.profile{display:block;width:100%;height:70px;margin:8px 0 24px}
+.facts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;margin:26px 0 8px;font-family:var(--sans)}
+.fact{border-top:3px solid var(--mound);padding-top:8px}
+.fact b{display:block;font:600 36px/1.05 var(--serif);color:var(--mound);font-variant-numeric:tabular-nums}
+.fact span{font-size:14px;line-height:1.4;color:var(--muted)}
+@media (max-width:640px){.facts{grid-template-columns:1fr}body{font-size:18px}}
+.atlas{display:grid;grid-template-columns:minmax(0,1fr) 300px;margin:22px 0 8px;border:1px solid var(--rule);background:var(--panel)}
+#map{height:min(78vh,700px);min-height:440px}
+.side{padding:16px;border-left:1px solid var(--rule);font:400 15px/1.5 var(--sans);display:flex;flex-direction:column;gap:14px;max-height:min(78vh,700px);overflow:auto}
+@media (max-width:880px){.atlas{grid-template-columns:1fr}#map{height:62vh;min-height:360px}.side{border-left:0;border-top:1px solid var(--rule);max-height:none}}
+.side h3{font:600 20px/1.2 var(--serif);margin:0}
+.side label{display:flex;gap:8px;align-items:center;cursor:pointer}
+.dot{display:inline-block;width:12px;height:12px;border-radius:50%;flex:none}
+.note{font:400 13px/1.45 var(--sans);color:var(--muted)}
+.leaflet-container{font:400 13px var(--sans);background:var(--panel)}
+.chart{font-family:var(--sans);margin:18px 0}
+.chart .row{display:grid;grid-template-columns:170px minmax(0,1fr) 54px;align-items:center;gap:10px;padding:6px 0;border-bottom:1px solid var(--rule);font-size:15px}
+.chart .track{position:relative;height:22px}
+.chart .ci{position:absolute;top:10px;height:2px;background:var(--muted)}
+.chart .pt{position:absolute;top:4px;width:14px;height:14px;border-radius:50%;margin-left:-7px}
+.chart .one{position:absolute;top:-4px;bottom:-4px;border-left:1.5px dashed var(--ink);opacity:.5}
+.chart .val{text-align:right;font-variant-numeric:tabular-nums;font-weight:600}
+.axis{display:grid;grid-template-columns:170px minmax(0,1fr) 54px;gap:10px;font:400 12px var(--sans);color:var(--muted)}
+.axis div{position:relative;height:16px}
+.axis span{position:absolute;transform:translateX(-50%)}
+@media (max-width:560px){.chart .row,.axis{grid-template-columns:110px minmax(0,1fr) 44px}}
+.tbl{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font:400 15px var(--sans);font-variant-numeric:tabular-nums}
+th,td{padding:7px 8px;border-bottom:1px solid var(--rule);text-align:left}
+th{font-weight:600;color:var(--muted);font-size:13px}
+td.n,th.n{text-align:right}
+.zero{color:var(--mound);font-weight:600}
+.method{font-size:17px}
+.method li{margin-bottom:8px}
+footer{font:400 14px/1.6 var(--sans);color:var(--muted);border-top:1px solid var(--rule);margin-top:48px;padding-top:16px}
+</style>
+</head>
+<body>
+<main>
+<div class="col">
+<h1>Is there a barrow in <em>Barrow</em>?</h1>
+<svg class="profile" viewBox="0 0 680 70" preserveAspectRatio="none" aria-hidden="true">
+  <path d="M0 62 C120 60 160 30 260 34 S420 58 520 52 S640 44 680 46 L680 70 L0 70Z" fill="var(--panel)"/>
+  <path d="M0 62 C120 60 160 30 260 34 S420 58 520 52 S640 44 680 46" fill="none" stroke="var(--hill)" stroke-width="2"/>
+  <path d="M232 35 q22 -22 44 0" fill="var(--mound)"/>
+  <path d="M540 51 q12 -12 24 0" fill="var(--mound)" opacity=".75"/>
+</svg>
+<p class="dek">Old English <i>beorg</i> meant a mound or a rounded hill, and it gives us the word barrow. I tested 129 English places named from it against 6,100 protected burial mounds. Do the names lead to the barrows?</p>
+<p class="byline">Tristan Hotham · Researcher of campaigns and platforms · 2026</p>
+
+<div class="facts" id="facts"></div>
+
+<h2>A hill word, not a grave word</h2>
+<p>Place-name dictionaries often gloss <i>beorg</i> as "burial-mound/hill" because no one can tell which sense a namer meant. One way to find out is to count. If <i>beorg</i> places were named after barrows, more scheduled barrows should survive near them than near places named after plain hills.</p>
+<p>That is not what the data show. Within 2 km, <i>beorg</i> places have about 1.2 times the barrows their local area would lead you to expect. Places named <i>dūn</i> or <i>hōh</i>, both ordinary hill words, score 1.1 to 1.2. The gap is well inside the noise. In most cases a <i>beorg</i> was a hill.</p>
+</div>
+
+<div class="col">
+<div class="chart" id="chart" role="img" aria-label="Ratio of observed to expected scheduled barrows within 2 km, by place-name element"></div>
+<p class="note">Each dot shows the barrows found within 2 km of places with that element, divided by the number expected from barrow density within 30 km of each place. 1 means "no more than the surroundings". The bars are 95% bootstrap intervals.</p>
+</div>
+
+<div class="atlas">
+  <div id="map" aria-label="Map of place-names and scheduled barrows"></div>
+  <aside class="side">
+    <h3>Names and mounds</h3>
+    <div id="layers"></div>
+    <p class="note">Dots are KEPN place locations, and small brown points are scheduled barrows, tumuli and round cairns. Click a place to see how many barrows lie within 2 km. From zoom 13 an Environment Agency lidar layer shows the mounds themselves where they survive.</p>
+    <label><input type="checkbox" id="lidar" checked> Lidar hillshade (zoom in)</label>
+  </aside>
+</div>
+
+<div class="col">
+<h2>Most Barrows were groves</h2>
+<p>The village names that look most like "barrow" are the weakest evidence of all. Of the places in the Key to English Place-Names called Barrow-something, eight come from <i>bearu</i>, "grove" or "wood". They include Barrow upon Soar, Barrow upon Trent, Barrow upon Humber, Barrow Gurney and Barrowford. Only four come from <i>beorg</i>. Barrow-in-Furness has a different origin again.</p>
+<p>Even where the dictionaries do say "burial mound", the mound has usually gone. KEPN glosses 12 <i>beorg</i> names as burial mounds. Nine of them have no scheduled barrow within 2 km. That includes Barrow in Rutland, where the editors point to a tumulus near The Green, and Barrowden, "burial-mound hill", with "a number of tumuli known in this area".</p>
+<div class="tbl"><table id="burial"><thead><tr><th>Place glossed "burial-mound"</th><th class="n">Barrows within 2 km</th><th class="n">Expected</th></tr></thead><tbody></tbody></table></div>
+<p class="note">Scheduled monuments are only the barrows that survive well enough to be protected. Centuries of ploughing have levelled thousands more, especially in the arable east where many <i>beorg</i> names sit. A zero here means no surviving, scheduled barrow, not that there never was one.</p>
+
+<h2>The one that might</h2>
+<p><i>Hlāw</i>, the word behind Taplow, Lowe and many northern "laws", scores highest: 1.5 times the expected barrows within 2 km, falling to 1.1 by 3 km. Taplow is named after a real Anglo-Saxon burial mound in its churchyard. Still, with 88 places the interval runs from 0.9 to 2.3, so this is a lead, not a finding.</p>
+<p>The controls mostly behave as you would hope. <i>Burh</i>, "fortification", scores 1.3, probably because hill-forts and barrows share the same high ground. <i>Bearu</i> (grove) sits below 1, as a word with nothing to do with mounds should. So, oddly, does Old Norse <i>haugr</i>, which can mean a burial mound. Its 26 places have only 3 barrows within 2 km.</p>
+
+<h2>Method</h2>
+<ol class="method">
+<li>Places come from the Key to English Place-Names (KEPN, University of Nottingham). I used every place it lists under each element. Each place is a single point, usually the settlement.</li>
+<li>Barrows are scheduled monuments from Historic England's National Heritage List whose names include barrow, tumulus, burial mound, round cairn or bowl cairn: 6,100 records.</li>
+<li>For each place I counted barrows within 1, 2 and 3 km. The expected count is the number within 30 km scaled by area. This controls for the fact that barrows cluster on the chalk and the moors.</li>
+<li>Results are pooled by element as total observed divided by total expected, with 2,000 bootstrap resamples of places for the intervals.</li>
+</ol>
+<p class="note">Scheduled monuments cover England only, so this test is England only. Some places appear under two elements (Barrowden is <i>beorg</i> and <i>dūn</i>). Grid references mark a monument's centre, so a long barrow cemetery counts once per listing, not once per mound.</p>
+
+<footer>
+<p><b>Data and code:</b> <a href="https://github.com/Tristan-Hotham/barrow-in-barrow">github.com/Tristan-Hotham/barrow-in-barrow</a> · archived at <a href="https://doi.org/10.5281/zenodo.23676162">doi:10.5281/zenodo.23676162</a></p>
+<p><b>Sources:</b> Key to English Place-Names, Institute for Name-Studies, University of Nottingham (<a href="https://kepn.nottingham.ac.uk/">kepn.nottingham.ac.uk</a>); the etymologies are theirs, and only names, elements and coordinates are reused here. Scheduled Monuments © Historic England, Open Government Licence v3; contains Ordnance Survey data © Crown copyright and database right. Lidar © Environment Agency, OGL v3. Base map © Esri.</p>
+<p>AI use: written with drafting, data and coding help from Claude (Anthropic).</p>
+<p>Tristan Hotham, independent researcher, 2026.</p>
+</footer>
+</div>
+</main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const GROUP = {berg:['--berg','beorg / berg','mound, hill'], hlaw:['--hlaw','hlāw','mound, hill'], dun:['--hill','dūn','hill'], hyll:['--hill','hyll','hill'], hoh:['--hill','hōh','hill-spur'], burh:['--other','burh','fortification'], bearu:['--grove','bearu','grove'], haugr:['--other','haugr (Old Norse)','mound, hill']};
+const fmt = (x, d=1) => Number(x).toFixed(d);
+Promise.all([fetch('data/places.json').then(r=>r.json()), fetch('data/barrows.json').then(r=>r.json())]).then(([P, B]) => {
+  const S = Object.fromEntries(P.summary.map(s => [s.el, s]));
+  const berg = S.berg, b = P.places.filter(p => p[1]==='berg' && p[6]);
+  document.getElementById('facts').innerHTML = [
+    [fmt(berg.ratio2)+'×', `barrows near <i>beorg</i> places, against what their surroundings predict (95% interval ${fmt(berg.lo2)}–${fmt(berg.hi2)})`],
+    [fmt(S.dun.ratio2)+'×', 'the same figure for <i>dūn</i>, a plain word for a hill'],
+    [b.filter(p=>p[4]===0).length+' of '+b.length, 'names glossed "burial-mound" with no scheduled barrow within 2 km']
+  ].map(([n,t]) => `<div class="fact"><b>${n}</b><span>${t}</span></div>`).join('');
+
+  // dot-and-interval chart
+  const order = P.summary.slice().sort((a,b)=>b.ratio2-a.ratio2), max = 2.5, x = v => Math.min(v,max)/max*100;
+  document.getElementById('chart').innerHTML = order.map(s => {
+    const g = GROUP[s.el];
+    return `<div class="row"><div><b>${g[1]}</b> <span class="note">${g[2]} · ${s.n}</span></div><div class="track"><div class="one" style="left:${x(1)}%"></div><div class="ci" style="left:${x(s.lo2)}%;width:${x(s.hi2)-x(s.lo2)}%"></div><div class="pt" style="left:${x(s.ratio2)}%;background:var(${g[0]})"></div></div><div class="val">${fmt(s.ratio2,2)}</div></div>`;
+  }).join('') + `<div class="axis"><div></div><div>${[0,0.5,1,1.5,2,2.5].map(v=>`<span style="left:${x(v)}%">${v}</span>`).join('')}</div><div></div></div>`;
+
+  document.querySelector('#burial tbody').innerHTML = b.sort((a,c)=>a[4]-c[4]||a[0].localeCompare(c[0])).map(p => `<tr><td>${p[0]}</td><td class="n ${p[4]?'':'zero'}">${p[4]}</td><td class="n">${fmt(p[5])}</td></tr>`).join('');
+
+  // map
+  const map = L.map('map', {zoomSnap:.25, minZoom:6, maxZoom:17, scrollWheelZoom:false}).fitBounds([[50.0,-5.7],[55.8,1.8]]);
+  map.on('focus', () => map.scrollWheelZoom.enable());
+  map.attributionControl.setPrefix(false);
+  const dark = matchMedia('(prefers-color-scheme: dark)').matches, ESRI = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/';
+  L.tileLayer(ESRI + (dark ? 'World_Dark_Gray_Base' : 'World_Light_Gray_Base') + '/MapServer/tile/{z}/{y}/{x}', {maxNativeZoom:16, maxZoom:19, attribution:'Base map © Esri, HERE, Garmin, © OpenStreetMap contributors'}).addTo(map);
+  map.createPane('lidar'); map.getPane('lidar').style.zIndex = 350;
+  const lidar = L.tileLayer.wms('https://environment.data.gov.uk/spatialdata/lidar-composite-digital-terrain-model-dtm-1m/wms', {layers:'Lidar_Composite_Hillshade_DTM_1m', format:'image/png', transparent:true, version:'1.3.0', pane:'lidar', minZoom:13, maxZoom:19, opacity:.85, attribution:'Lidar © Environment Agency, OGL v3'}).addTo(map);
+  document.getElementById('lidar').onchange = e => e.target.checked ? lidar.addTo(map) : map.removeLayer(lidar);
+  const R = L.canvas({padding:.3});
+  const barrows = L.layerGroup(B.map(([la,lo,id,n]) => L.circleMarker([la,lo], {renderer:R, radius:2.2, stroke:false, fillColor:css('--mound'), fillOpacity:.55}).bindTooltip(`${n}`))).addTo(map);
+  const layers = {barrows:[barrows,'Scheduled barrows','--mound']};
+  const groups = ['berg','hlaw','dun','hyll','hoh','bearu','haugr','burh'];
+  for (const el of groups) {
+    const g = GROUP[el];
+    const lg = L.layerGroup(P.places.filter(p=>p[1]===el).map(p => L.circleMarker([p[2],p[3]], {renderer:R, radius:5.5, color:css('--bg'), weight:1, fillColor:css(g[0]), fillOpacity:.95})
+      .bindPopup(`<b>${p[0]}</b><br><i>${g[1]}</i>, "${g[2]}"${p[6]?' · glossed as burial-mound':''}<br>${p[4]} scheduled barrow${p[4]===1?'':'s'} within 2 km (expected ${fmt(p[5])})<br><a href="https://kepn.nottingham.ac.uk/" target="_blank" rel="noopener">Etymology in KEPN</a>`)));
+    if (['berg','hlaw','dun'].includes(el)) lg.addTo(map);
+    layers[el] = [lg, `${g[1]} · ${g[2]}`, g[0]];
+  }
+  document.getElementById('layers').innerHTML = Object.entries(layers).map(([k,[lg,lab,c]]) => `<label><input type="checkbox" data-k="${k}" ${map.hasLayer(lg)?'checked':''}><span class="dot" style="background:var(${c})"></span>${lab}</label>`).join('');
+  document.querySelectorAll('#layers input').forEach(i => i.onchange = () => { const lg = layers[i.dataset.k][0]; i.checked ? lg.addTo(map) : map.removeLayer(lg); });
+});
+</script>
+</body>
+</html>
