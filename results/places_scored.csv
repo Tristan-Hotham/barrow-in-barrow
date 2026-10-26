@@ -1,0 +1,1407 @@
+PlaceName,element,Latitude,Longitude,glossed_burial_mound,n1,n2,n3,barrows_within_30km,exp1,exp2,exp3
+Aikber,berg,54.319,-1.702,False,0,0,0,66,0.073,0.293,0.66
+Alburgh,berg,52.438,1.331,True,0,0,0,17,0.019,0.076,0.17
+Alkborough,berg,53.682,-0.662,False,0,0,1,79,0.088,0.351,0.79
+Babergh Hundred,berg,52.075,0.764,False,0,0,0,29,0.032,0.129,0.29
+Baltonsborough,berg,51.108,-2.651,True,0,0,0,199,0.221,0.884,1.99
+Barby,berg,52.33,-1.202,False,0,0,0,17,0.019,0.076,0.17
+Bardon,berg,52.708,-1.328,False,0,0,0,15,0.017,0.067,0.15
+Barham,berg,52.366,-0.334,False,0,0,0,54,0.06,0.24,0.54
+Barham,berg,52.112,1.117,False,0,0,0,49,0.054,0.218,0.49
+Barholm,berg,52.681,-0.396,False,0,0,0,34,0.038,0.151,0.34
+Barrow,berg,52.73,-0.676,True,0,0,0,14,0.016,0.062,0.14
+Barrow Hill,berg,50.959,-2.382,False,0,0,0,409,0.454,1.818,4.09
+Barrow upon Humber,berg,53.679,-0.374,False,0,0,0,94,0.104,0.418,0.94
+Barrowby,berg,52.919,-0.685,False,0,0,0,15,0.017,0.067,0.15
+Barrowden,berg,52.594,-0.606,True,0,0,1,20,0.022,0.089,0.2
+Barugh,berg,53.572,-1.526,False,0,0,0,16,0.018,0.071,0.16
+Bearsted,berg,51.27,0.586,False,0,0,0,21,0.023,0.093,0.21
+Berkhamsted,berg,51.757,-0.56,False,0,0,2,48,0.053,0.213,0.48
+Berrier and Murrah,berg,54.657,-2.924,False,0,0,0,81,0.09,0.36,0.81
+Berrow,berg,52.009,-2.3,False,0,0,0,37,0.041,0.164,0.37
+Berrow,berg,51.267,-3.012,True,0,0,0,182,0.202,0.809,1.82
+Bersted,berg,50.797,-0.689,False,0,0,0,151,0.168,0.671,1.51
+Bidborough,berg,51.169,0.237,False,0,0,0,15,0.017,0.067,0.15
+Borough Green,berg,51.294,0.301,False,0,0,0,18,0.02,0.08,0.18
+Borrowby,berg,54.529,-0.804,False,0,11,15,434,0.482,1.929,4.34
+Borrowby,berg,54.299,-1.348,False,0,0,0,267,0.297,1.187,2.67
+Brackenborough,berg,53.394,0.006,False,0,0,0,97,0.108,0.431,0.97
+Brightwells Barrow Hundred,berg,51.748,-1.777,False,0,1,1,212,0.236,0.942,2.12
+Brokenborough,berg,51.604,-2.124,False,0,0,0,263,0.292,1.169,2.63
+Bromsberrow,berg,52.008,-2.373,False,0,0,0,20,0.022,0.089,0.2
+Broughton,berg,51.1,-1.566,False,0,3,4,668,0.742,2.969,6.68
+Broughton,berg,53.564,-0.544,False,0,1,1,54,0.06,0.24,0.54
+Bul Barrow,berg,50.851,-2.319,False,2,4,7,652,0.724,2.898,6.52
+Burberry Lane,berg,50.625,-2.067,False,6,12,19,398,0.442,1.769,3.98
+Burghfield,berg,51.412,-1.045,False,0,0,0,75,0.083,0.333,0.75
+Caldbergh with East Scrafton,berg,54.265,-1.856,False,0,0,0,31,0.034,0.138,0.31
+Charborough Ho,berg,50.78,-2.108,False,2,5,6,600,0.667,2.667,6.0
+Chebbard Farm and Clump,berg,50.783,-2.338,False,0,2,13,618,0.687,2.747,6.18
+Chedburgh,berg,52.186,0.624,False,0,0,0,67,0.074,0.298,0.67
+Chettle Head Copse,berg,50.989,-1.965,False,1,7,12,784,0.871,3.484,7.84
+Chiselborough,berg,50.928,-2.763,True,0,0,0,177,0.197,0.787,1.77
+Clannaborough,berg,50.808,-3.783,False,0,0,0,155,0.172,0.689,1.55
+East and West Chelborough,berg,50.847,-2.633,False,0,0,0,349,0.388,1.551,3.49
+East Bergholt,berg,51.97,1.019,False,0,0,1,45,0.05,0.2,0.45
+Edlesborough,berg,51.866,-0.585,True,0,0,2,51,0.057,0.227,0.51
+Ellesborough,berg,51.751,-0.792,False,1,2,7,47,0.052,0.209,0.47
+Emborough,berg,51.261,-2.553,True,0,3,11,256,0.284,1.138,2.56
+Farmborough,berg,51.343,-2.482,True,0,0,0,264,0.293,1.173,2.64
+Farnborough,berg,51.362,0.06,False,0,0,0,34,0.038,0.151,0.34
+Farnborough,berg,51.531,-1.374,False,0,0,0,154,0.171,0.684,1.54
+Farnborough,berg,52.142,-1.366,False,0,0,0,27,0.03,0.12,0.27
+Farnborough,berg,51.283,-0.747,False,1,2,2,73,0.081,0.324,0.73
+Flawborough,berg,52.974,-0.832,False,0,0,0,14,0.016,0.062,0.14
+Flax Bourton,berg,51.422,-2.713,False,0,0,0,184,0.204,0.818,1.84
+Grandborough,berg,52.294,-1.276,False,0,0,0,19,0.021,0.084,0.19
+Grandborough,berg,51.923,-0.889,False,0,0,0,39,0.043,0.173,0.39
+Great and Little Barugh,berg,54.206,-0.859,False,0,0,0,715,0.794,3.178,7.15
+Great and Little Wigborough,berg,51.795,0.848,False,0,1,1,13,0.014,0.058,0.13
+Great Finborough,berg,52.179,0.946,False,0,0,0,61,0.068,0.271,0.61
+Great Limber,berg,53.561,-0.288,False,0,0,0,71,0.079,0.316,0.71
+Habergham Eaves,berg,53.798,-2.282,False,0,0,0,35,0.039,0.156,0.35
+Hambury House and Tout,berg,50.623,-2.261,False,3,5,10,543,0.603,2.413,5.43
+Handborough,berg,51.828,-1.399,False,0,0,0,90,0.1,0.4,0.9
+Harborough Magna,berg,52.411,-1.303,False,0,0,0,16,0.018,0.071,0.16
+Henning Hill,berg,50.815,-2.338,False,0,1,4,620,0.689,2.756,6.2
+Inkberrow,berg,52.216,-1.979,False,0,0,0,13,0.014,0.058,0.13
+Kaber,berg,54.498,-2.318,False,0,0,1,54,0.06,0.24,0.54
+Kettleburgh,berg,52.196,1.313,False,0,0,0,51,0.057,0.227,0.51
+Knap Barrow,berg,50.935,-1.928,False,0,2,6,678,0.753,3.013,6.78
+Langbargh Wapentake,berg,54.496,-1.129,False,0,0,4,350,0.389,1.556,3.5
+Litchborough,berg,52.185,-1.073,False,0,0,1,16,0.018,0.071,0.16
+Little Finborough,berg,52.152,0.944,False,0,0,0,59,0.066,0.262,0.59
+Little Limber,berg,53.579,-0.302,False,0,0,0,67,0.074,0.298,0.67
+Longborough,berg,51.964,-1.732,False,0,1,7,141,0.157,0.627,1.41
+Luxborough,berg,51.128,-3.466,False,0,0,6,123,0.137,0.547,1.23
+Lymburgh's Farm,berg,50.973,-2.268,False,0,0,0,453,0.503,2.013,4.53
+Malborough,berg,50.241,-3.817,False,0,0,1,51,0.057,0.227,0.51
+Market Harborough,berg,52.48,-0.919,False,0,0,0,19,0.021,0.084,0.19
+Marlborough,berg,51.424,-1.735,False,1,1,3,649,0.721,2.884,6.49
+Mattishall Burgh,berg,52.662,1.037,False,0,0,0,52,0.058,0.231,0.52
+Melbury Abbas,berg,50.981,-2.167,False,0,5,7,493,0.548,2.191,4.93
+Monks Risborough,berg,51.733,-0.836,False,0,3,4,48,0.053,0.213,0.48
+Newsham with Breckenbrough,berg,54.255,-1.426,False,0,0,0,217,0.241,0.964,2.17
+Oldberrow,berg,52.296,-1.818,False,0,0,0,5,0.006,0.022,0.05
+Orlingbury,berg,52.344,-0.732,False,0,0,0,17,0.019,0.076,0.17
+Pamber,berg,51.322,-1.119,False,0,0,0,99,0.11,0.44,0.99
+Princes Risborough,berg,51.724,-0.836,False,0,3,3,46,0.051,0.204,0.46
+Pulborough,berg,50.956,-0.499,False,0,1,2,175,0.194,0.778,1.75
+Rimbrow Coppice,berg,50.653,-2.431,False,1,9,17,523,0.581,2.324,5.23
+Roborough,berg,50.939,-4.03,False,0,0,1,168,0.187,0.747,1.68
+Rodborough,berg,51.739,-2.226,False,0,0,2,113,0.126,0.502,1.13
+Rowborough,berg,50.693,-1.145,False,0,1,10,149,0.166,0.662,1.49
+Rowborough,berg,50.658,-1.344,False,1,6,15,195,0.217,0.867,1.95
+Rowborrow,berg,51.323,-2.783,False,0,1,8,178,0.198,0.791,1.78
+Sadberge,berg,54.543,-1.468,False,0,0,0,148,0.164,0.658,1.48
+Seaborough,berg,50.855,-2.804,True,0,0,0,248,0.276,1.102,2.48
+Sharperton,berg,55.326,-2.072,False,0,6,7,98,0.109,0.436,0.98
+Smallburgh,berg,52.768,1.46,False,0,0,0,15,0.017,0.067,0.15
+Southburgh,berg,52.602,0.945,False,0,0,0,74,0.082,0.329,0.74
+Stoborough,berg,50.676,-2.108,False,2,7,20,509,0.566,2.262,5.09
+Summersbury,berg,50.64,-1.231,False,0,0,0,152,0.169,0.676,1.52
+Symondsbury,berg,50.738,-2.788,False,0,2,2,305,0.339,1.356,3.05
+Thornborough,berg,51.995,-0.916,False,0,1,1,27,0.03,0.12,0.27
+Thornbrough,berg,54.254,-1.349,False,0,0,0,253,0.281,1.124,2.53
+Thornbrough,berg,54.975,-1.978,False,0,0,0,43,0.048,0.191,0.43
+Thornton Riseborough,berg,54.242,-0.843,False,0,0,0,808,0.898,3.591,8.08
+Thrybergh,berg,53.454,-1.301,False,0,0,0,17,0.019,0.076,0.17
+Thurlbear,berg,50.988,-3.049,False,0,0,0,81,0.09,0.36,0.81
+Todber,berg,50.98,-2.286,False,0,0,0,442,0.491,1.964,4.42
+Todber,berg,50.984,-2.293,False,0,0,0,437,0.486,1.942,4.37
+Treborough,berg,51.119,-3.409,True,0,2,5,110,0.122,0.489,1.1
+Ugborough,berg,50.384,-3.865,False,0,0,0,136,0.151,0.604,1.36
+Underbarrow and Bradleyfield,berg,54.316,-2.824,False,0,0,0,66,0.073,0.293,0.66
+Upper and Lower Shuckburgh,berg,52.258,-1.276,False,0,0,0,20,0.022,0.089,0.2
+Wanborough,berg,51.55,-1.691,False,0,0,0,310,0.344,1.378,3.1
+Wanborough,berg,51.228,-0.662,True,1,1,1,98,0.109,0.436,0.98
+Warborough,berg,51.637,-1.142,False,0,2,3,69,0.077,0.307,0.69
+Welbury,berg,54.416,-1.393,False,0,0,0,272,0.302,1.209,2.72
+West Bagborough,berg,51.095,-3.194,False,0,4,8,71,0.079,0.316,0.71
+West Bergholt,berg,51.911,0.855,False,0,0,2,21,0.023,0.093,0.21
+Whatborough,berg,52.651,-0.871,False,0,0,0,6,0.007,0.027,0.06
+Whinburgh,berg,52.646,0.962,False,0,0,0,69,0.077,0.307,0.69
+Willesborough,berg,51.137,0.893,False,0,0,0,50,0.056,0.222,0.5
+Wisborough Green,berg,51.028,-0.511,False,0,0,0,199,0.221,0.884,1.99
+Wolborough,berg,50.523,-3.617,False,0,0,1,138,0.153,0.613,1.38
+Woodborough,berg,51.334,-1.836,False,0,0,0,777,0.863,3.453,7.77
+Woodnesborough,berg,51.261,1.302,False,0,0,0,51,0.057,0.227,0.51
+Wooperton,berg,55.478,-1.93,False,0,0,0,77,0.086,0.342,0.77
+Worbarrow,berg,50.617,-2.183,False,0,5,12,494,0.549,2.196,4.94
+Atlow,hlaw,53.033,-1.651,True,0,0,0,222,0.247,0.987,2.22
+Barrow Law,hlaw,55.397,-2.215,False,1,2,2,85,0.094,0.378,0.85
+Bartlow,hlaw,52.085,0.312,True,1,1,1,59,0.066,0.262,0.59
+Baslow and Bubnell,hlaw,53.249,-1.619,True,0,0,3,238,0.264,1.058,2.38
+Blacklow Hundred,hlaw,51.668,0.898,False,0,0,0,11,0.012,0.049,0.11
+Bledlow,hlaw,51.716,-0.88,False,0,1,3,47,0.052,0.209,0.47
+Blidesloe Hundred,hlaw,51.774,-2.429,False,0,0,0,72,0.08,0.32,0.72
+Botloe Hundred,hlaw,51.936,-2.401,False,0,0,0,43,0.048,0.191,0.43
+Brenkley,hlaw,55.074,-1.665,False,0,0,0,29,0.032,0.129,0.29
+Brinklow,hlaw,52.412,-1.362,False,0,0,1,16,0.018,0.071,0.16
+Bucklow Half-hundred,hlaw,51.668,0.898,False,0,0,0,11,0.012,0.049,0.11
+Buglawton,hlaw,53.168,-2.188,False,0,0,0,175,0.194,0.778,1.75
+Butterlaw,hlaw,55.011,-1.712,False,0,0,1,27,0.03,0.12,0.27
+Callow,hlaw,53.06,-1.591,False,0,0,0,225,0.25,1.0,2.25
+Chenewardberge Hundred,hlaw,51.855,-1.602,False,0,0,1,139,0.154,0.618,1.39
+Chidlow,hlaw,52.996,-2.739,False,0,0,0,20,0.022,0.089,0.2
+Church Lawton,hlaw,53.096,-2.263,False,0,0,0,120,0.133,0.533,1.2
+Cocklaw,hlaw,55.038,-2.103,False,1,2,2,51,0.057,0.227,0.51
+Cockle Park,hlaw,55.217,-1.679,False,0,0,0,40,0.044,0.178,0.4
+Creslow,hlaw,51.886,-0.817,False,0,0,0,40,0.044,0.178,0.4
+Cutteslowe,hlaw,51.791,-1.269,True,0,0,1,71,0.079,0.316,0.71
+Docklow,hlaw,52.214,-2.638,False,0,0,0,22,0.024,0.098,0.22
+Dorslow,hlaw,52.881,-2.291,True,0,0,0,15,0.017,0.067,0.15
+Drakelow,hlaw,52.782,-1.623,True,0,0,0,31,0.034,0.138,0.31
+East and West Ardsley,hlaw,53.725,-1.539,False,0,0,0,11,0.012,0.049,0.11
+East and West Challow,hlaw,51.612,-1.46,True,0,0,0,145,0.161,0.644,1.45
+Farlow,hlaw,52.421,-2.523,False,0,0,0,46,0.051,0.204,0.46
+Foolow,hlaw,53.285,-1.709,False,1,3,4,239,0.266,1.062,2.39
+Great Hucklow,hlaw,53.294,-1.739,True,0,3,4,237,0.263,1.053,2.37
+Great Thurlow,hlaw,52.127,0.46,False,0,0,0,58,0.064,0.258,0.58
+Grindlow,hlaw,53.294,-1.724,True,2,2,3,236,0.262,1.049,2.36
+Hadlow,hlaw,51.221,0.34,False,0,0,0,16,0.018,0.071,0.16
+Hankelow,hlaw,53.006,-2.486,False,0,0,0,29,0.032,0.129,0.29
+Harlow,hlaw,51.774,0.108,False,0,3,4,18,0.02,0.08,0.18
+Harlow Hill,hlaw,55.011,-1.884,False,0,0,0,42,0.047,0.187,0.42
+Hartley,hlaw,55.073,-1.477,False,0,0,0,15,0.017,0.067,0.15
+Hauxley,hlaw,55.325,-1.568,False,0,0,0,26,0.029,0.116,0.26
+Henlow,hlaw,52.032,-0.289,False,0,0,0,55,0.061,0.244,0.55
+High and Low Highlaws,hlaw,55.2,-1.727,False,0,0,0,51,0.057,0.227,0.51
+Highlaws,hlaw,55.146,-1.884,False,0,1,2,65,0.072,0.289,0.65
+Highlow,hlaw,53.312,-1.679,True,0,3,3,213,0.237,0.947,2.13
+Horninglow,hlaw,52.826,-1.638,True,0,0,0,84,0.093,0.373,0.84
+Hounslow Hundred,hlaw,51.467,-0.353,False,0,0,0,49,0.054,0.218,0.49
+Huxloe Hundred,hlaw,52.414,-0.568,False,0,0,0,22,0.024,0.098,0.22
+Kearsley,hlaw,55.074,-1.962,False,0,0,1,62,0.069,0.276,0.62
+Kelloe,hlaw,54.722,-1.466,False,0,0,0,22,0.024,0.098,0.22
+Kirkley,hlaw,55.083,-1.759,False,0,0,0,35,0.039,0.156,0.35
+Knightlow Hundred,hlaw,52.367,-1.436,False,0,0,0,16,0.018,0.071,0.16
+Lawshall,hlaw,52.157,0.725,False,0,0,0,54,0.06,0.24,0.54
+Leek and Lowe,hlaw,53.106,-2.024,True,0,0,0,251,0.279,1.116,2.51
+Lew,hlaw,51.756,-1.531,True,1,1,1,163,0.181,0.724,1.63
+Lewes,hlaw,50.877,0.01,True,0,5,10,172,0.191,0.764,1.72
+Little Hucklow,hlaw,53.303,-1.754,True,1,2,4,236,0.262,1.049,2.36
+Little Thurlow,hlaw,52.136,0.446,False,0,0,0,61,0.068,0.271,0.61
+Lowton,hlaw,53.473,-2.566,False,0,0,0,12,0.013,0.053,0.12
+Ludlow,hlaw,52.366,-2.714,False,0,0,0,66,0.073,0.293,0.66
+Lynesack and Softley,hlaw,54.625,-1.885,False,0,0,0,11,0.012,0.049,0.11
+Moorsley,hlaw,54.803,-1.48,False,0,0,0,5,0.006,0.022,0.05
+Moreton cum Alcomlow,hlaw,53.132,-2.248,False,0,0,0,132,0.147,0.587,1.32
+Munslow,hlaw,52.483,-2.701,False,0,0,0,68,0.076,0.302,0.68
+Orslow,hlaw,52.737,-2.29,True,0,0,0,11,0.012,0.049,0.11
+Osmotherly,hlaw,54.224,-3.113,False,0,0,0,23,0.026,0.102,0.23
+Oulton Lowe,hlaw,53.167,-2.607,False,0,0,0,29,0.032,0.129,0.29
+Pathlow Hundred,hlaw,52.242,-1.789,False,0,0,0,9,0.01,0.04,0.09
+Pentlow,hlaw,52.087,0.648,False,0,0,0,48,0.053,0.213,0.48
+Ploughley Hundred,hlaw,51.962,-1.237,False,0,0,0,52,0.058,0.231,0.52
+Publow,hlaw,51.378,-2.54,True,0,0,0,197,0.219,0.876,1.97
+Rowley Hundred,hlaw,51.951,-1.005,False,0,0,0,32,0.036,0.142,0.32
+Sawley and Wilsthorpe,hlaw,52.879,-1.296,False,0,0,0,7,0.008,0.031,0.07
+Seaton with Slingley,hlaw,54.839,-1.386,False,0,0,0,5,0.006,0.022,0.05
+Seckloe Hundred,hlaw,52.497,-0.771,False,0,0,0,15,0.017,0.067,0.15
+Shardlow and Great Wilne,hlaw,52.87,-1.355,False,0,0,0,14,0.016,0.062,0.14
+Tadlow,hlaw,52.111,-0.125,True,0,0,0,66,0.073,0.293,0.66
+Taplow,hlaw,51.534,-0.682,True,1,1,1,47,0.052,0.209,0.47
+Thornley,hlaw,54.74,-1.435,False,0,0,0,22,0.024,0.098,0.22
+Thriplow,hlaw,52.098,0.108,True,0,0,0,57,0.063,0.253,0.57
+Throckley,hlaw,54.993,-1.759,False,0,1,1,30,0.033,0.133,0.3
+Tinsley,hlaw,53.41,-1.392,False,0,0,0,54,0.06,0.24,0.54
+Treales Roseacre and Wharles,hlaw,53.795,-2.844,False,0,0,0,8,0.009,0.036,0.08
+Tremelau Hundred,hlaw,52.197,-1.497,False,0,0,0,17,0.019,0.076,0.17
+Twemlow,hlaw,53.213,-2.323,False,0,3,4,55,0.061,0.244,0.55
+Wardlow,hlaw,53.267,-1.724,False,3,7,10,254,0.282,1.129,2.54
+Warslow and Elkstones,hlaw,53.124,-1.874,True,2,6,8,264,0.293,1.173,2.64
+Wenslow Half-hundred,hlaw,51.668,0.898,False,0,0,0,11,0.012,0.049,0.11
+Winslow,hlaw,52.178,-2.564,True,0,0,0,22,0.024,0.098,0.22
+Winslow,hlaw,51.941,-0.889,False,0,0,0,40,0.044,0.178,0.4
+Winterslow,hlaw,51.091,-1.652,False,0,0,4,707,0.786,3.142,7.07
+Wolferlow,hlaw,52.251,-2.477,True,0,0,0,20,0.022,0.089,0.2
+Ainderby Quernhow,haugr,54.228,-1.472,True,0,0,1,193,0.214,0.858,1.93
+Carleton Forehoe,haugr,52.607,1.093,False,0,1,1,45,0.05,0.2,0.45
+Clitheroe,haugr,53.869,-2.389,False,0,0,0,35,0.039,0.156,0.35
+Cracoe,haugr,54.04,-2.04,False,0,0,0,38,0.042,0.169,0.38
+Cuerdale,haugr,53.76,-2.646,False,0,0,0,10,0.011,0.044,0.1
+Dringhoe Upton and Brough,haugr,53.974,-0.241,False,0,0,0,183,0.203,0.813,1.83
+Forehoe Hundred,haugr,52.607,1.093,False,0,1,1,45,0.05,0.2,0.45
+Hayton and Mealo,haugr,54.76,-3.392,False,0,0,0,18,0.02,0.08,0.18
+Hesketh with Becconsall,haugr,53.705,-2.842,False,0,0,0,10,0.011,0.044,0.1
+Holme on the Wolds,haugr,53.906,-0.533,True,0,0,0,293,0.326,1.302,2.93
+Hoon,haugr,52.88,-1.652,True,1,1,1,137,0.152,0.609,1.37
+Howe,haugr,54.219,-1.457,True,0,0,0,199,0.221,0.884,1.99
+Howe,haugr,52.546,1.354,False,0,0,0,16,0.018,0.071,0.16
+Huby,haugr,54.1,-1.137,False,0,0,0,302,0.336,1.342,3.02
+Ingleby Greenhow,haugr,54.45,-1.099,True,0,0,2,387,0.43,1.72,3.87
+Meathop and Ulpha,haugr,54.217,-2.868,False,0,0,0,25,0.028,0.111,0.25
+Middleton Quernhow,haugr,54.201,-1.488,True,0,0,0,174,0.193,0.773,1.74
+North Greenhoe Hundred,haugr,52.918,0.892,False,0,0,1,61,0.068,0.271,0.61
+Potto,haugr,54.425,-1.269,True,0,0,0,313,0.348,1.391,3.13
+Preesall with Hackinsall,haugr,53.92,-2.968,False,0,0,0,9,0.01,0.04,0.09
+Scartho,haugr,53.54,-0.093,False,0,0,0,73,0.081,0.324,0.73
+Sexhow,haugr,54.452,-1.269,True,0,0,0,313,0.348,1.391,3.13
+Skiddaw,haugr,54.655,-3.156,False,0,0,0,60,0.067,0.267,0.6
+Stanghow,haugr,54.53,-0.958,True,0,0,0,347,0.386,1.542,3.47
+Thingoe Hundred,haugr,52.257,0.702,False,0,0,0,77,0.086,0.342,0.77
+Ulpha,haugr,54.331,-3.239,False,0,0,0,30,0.033,0.133,0.3
+(West) Blagdon Fm,dun,50.962,-1.921,False,7,10,16,747,0.83,3.32,7.47
+Abingdon and St Helen Without,dun,51.674,-1.286,False,0,0,0,91,0.101,0.404,0.91
+Ambrosden,dun,51.871,-1.123,False,0,0,0,59,0.066,0.262,0.59
+Apes Down,dun,50.685,-1.357,False,2,3,12,203,0.226,0.902,2.03
+Arreton Down,dun,50.685,-1.23,False,2,2,7,184,0.204,0.818,1.84
+Ashdon,dun,52.058,0.31,False,0,0,1,58,0.064,0.258,0.58
+Ashendon,dun,51.825,-0.978,False,0,0,0,43,0.048,0.191,0.43
+Ashingdon,dun,51.6,0.692,False,0,0,0,7,0.008,0.031,0.07
+Attington,dun,51.708,-0.981,False,0,0,0,51,0.057,0.227,0.51
+Baildon,dun,53.852,-1.766,False,0,3,4,25,0.028,0.111,0.25
+Ballingdon cum Brundon,dun,52.058,0.734,False,0,0,0,25,0.028,0.111,0.25
+Bardon,dun,52.708,-1.328,False,0,0,0,15,0.017,0.067,0.15
+Barrowden,dun,52.594,-0.606,True,0,0,1,20,0.022,0.089,0.2
+Basildon,dun,51.569,0.473,False,0,0,0,12,0.013,0.053,0.12
+Battlesden,dun,51.947,-0.597,False,0,0,0,52,0.058,0.231,0.52
+Baydon,dun,51.505,-1.591,False,1,1,4,330,0.367,1.467,3.3
+Bazon Barn and Hill,dun,50.832,-2.505,False,0,5,10,484,0.538,2.151,4.84
+Bicton,dun,52.734,-2.823,False,0,0,0,46,0.051,0.204,0.46
+Billesdon,dun,52.616,-0.945,False,0,0,0,8,0.009,0.036,0.08
+Billington,dun,53.815,-2.419,False,0,0,2,27,0.03,0.12,0.27
+Bindon Abbey,dun,50.68,-2.206,False,1,5,15,598,0.664,2.658,5.98
+Bishop's Down,dun,50.908,-2.466,False,0,0,0,491,0.546,2.182,4.91
+Black Callerton,dun,55.02,-1.728,False,0,0,1,28,0.031,0.124,0.28
+Black Heddon,dun,55.083,-1.884,False,1,1,1,60,0.067,0.267,0.6
+Blagdon,dun,51.323,-2.712,False,0,4,7,178,0.198,0.791,1.78
+Blaisdon,dun,51.855,-2.43,False,0,0,0,66,0.073,0.293,0.66
+Bleadon,dun,51.304,-2.941,False,0,0,2,192,0.213,0.853,1.92
+Bleak Down,dun,50.631,-1.273,False,0,0,0,162,0.18,0.72,1.62
+Bletchingdon,dun,51.854,-1.268,False,0,0,0,58,0.064,0.258,0.58
+Blunsdon St Andrew,dun,51.604,-1.806,False,0,0,0,317,0.352,1.409,3.17
+Bolden,dun,54.947,-1.447,False,0,0,0,6,0.007,0.027,0.06
+Bosden,dun,53.375,-2.099,False,0,0,0,100,0.111,0.444,1.0
+Botolph Claydon,dun,51.914,-0.933,False,0,0,0,40,0.044,0.178,0.4
+Bovingdon,dun,51.721,-0.532,False,0,0,0,48,0.053,0.213,0.48
+Bowdon,dun,53.375,-2.37,False,0,0,0,47,0.052,0.209,0.47
+Brandon,dun,55.451,-1.93,False,0,0,0,85,0.094,0.378,0.85
+Brandon,dun,52.447,0.625,False,0,2,4,86,0.096,0.382,0.86
+Brandon and Bretford,dun,52.385,-1.406,False,0,1,1,17,0.019,0.076,0.17
+Brandon and Byshottles,dun,54.75,-1.636,False,0,0,0,8,0.009,0.036,0.08
+Brandon Parva,dun,52.626,1.064,False,0,0,1,46,0.051,0.204,0.46
+Bredon,dun,52.027,-2.111,False,0,0,0,86,0.096,0.382,0.86
+Breedon on the Hill,dun,52.808,-1.401,False,0,0,0,12,0.013,0.053,0.12
+Brendon,dun,51.222,-3.756,False,1,2,2,105,0.117,0.467,1.05
+Brereton cum Smethwick,dun,53.222,-2.144,False,0,0,1,188,0.209,0.836,1.88
+Brickendon,dun,51.75,-0.082,False,0,0,0,25,0.028,0.111,0.25
+Bullington,dun,51.18,-1.336,False,0,0,2,320,0.356,1.422,3.2
+Burradon,dun,55.046,-1.571,False,0,0,0,17,0.019,0.076,0.17
+Burradon,dun,55.352,-2.025,False,0,0,0,96,0.107,0.427,0.96
+Bursledon,dun,50.883,-1.312,False,0,0,0,297,0.33,1.32,2.97
+Bussey Stool Fm,dun,50.933,-2.105,False,1,3,4,542,0.602,2.409,5.42
+Butterton,dun,53.106,-1.889,False,1,2,6,264,0.293,1.173,2.64
+Caddington,dun,51.864,-0.455,False,0,0,0,46,0.051,0.204,0.46
+Canewdon,dun,51.617,0.75,False,0,0,0,7,0.008,0.031,0.07
+Cassop cum Quarrington,dun,54.749,-1.481,False,0,0,0,7,0.008,0.031,0.07
+Castle Donington,dun,52.843,-1.341,False,0,0,0,9,0.01,0.04,0.09
+Cauldon,dun,53.034,-1.875,False,0,2,21,224,0.249,0.996,2.24
+Chaldon,dun,51.284,-0.116,False,0,0,1,38,0.042,0.169,0.38
+Chaldon Herring,dun,50.651,-2.291,False,5,9,21,565,0.628,2.511,5.65
+Chaldon Herring / East Chaldon,dun,50.65,-2.295,False,5,9,21,565,0.628,2.511,5.65
+Charndon,dun,51.915,-1.02,False,0,0,0,43,0.048,0.191,0.43
+Cheddington,dun,51.848,-0.659,False,0,0,0,49,0.054,0.218,0.49
+Cheldon,dun,50.907,-3.801,False,0,0,0,136,0.151,0.604,1.36
+Chelmorton,dun,53.222,-1.829,False,1,2,2,270,0.3,1.2,2.7
+Chessington,dun,51.358,-0.314,False,0,0,0,47,0.052,0.209,0.47
+Cheverton,dun,50.648,-1.188,False,0,0,0,140,0.156,0.622,1.4
+Cheverton,dun,50.658,-1.372,False,7,19,23,199,0.221,0.884,1.99
+Chipping Warden,dun,52.133,-1.278,False,0,0,0,23,0.026,0.102,0.23
+Churchdown,dun,51.883,-2.168,False,0,0,0,145,0.161,0.644,1.45
+Clarendon Park,dun,51.074,-1.752,False,0,0,1,767,0.852,3.409,7.67
+Claverdon,dun,52.278,-1.716,False,0,0,0,4,0.004,0.018,0.04
+Claydon,dun,52.112,1.117,False,0,0,0,49,0.054,0.218,0.49
+Claydon with Clattercote,dun,52.151,-1.336,False,0,0,0,24,0.027,0.107,0.24
+Clayhidon,dun,50.933,-3.19,False,0,0,0,97,0.108,0.431,0.97
+Coulsdon,dun,51.32,-0.129,False,0,1,1,40,0.044,0.178,0.4
+Coundon,dun,52.431,-1.538,False,0,0,0,14,0.016,0.062,0.14
+Coundon,dun,54.66,-1.622,False,0,0,0,8,0.009,0.036,0.08
+Coundon Grange,dun,54.651,-1.653,False,0,0,0,9,0.01,0.04,0.09
+Crockerton Hill,dun,50.95,-1.935,False,0,6,20,723,0.803,3.213,7.23
+Cuddesdon,dun,51.727,-1.14,False,0,0,0,59,0.066,0.262,0.59
+Cuxham with Easington,dun,51.654,-1.04,False,0,0,0,48,0.053,0.213,0.48
+Dalton,dun,55.047,-1.822,False,0,0,0,39,0.043,0.173,0.39
+Denny Lodge,dun,50.848,-1.526,False,2,10,20,333,0.37,1.48,3.33
+Dinnington,dun,50.909,-2.848,False,0,0,0,157,0.174,0.698,1.57
+Dinnington,dun,53.373,-1.197,False,0,0,0,10,0.011,0.044,0.1
+Dinton,dun,51.083,-1.98,False,0,0,0,787,0.874,3.498,7.87
+Donhead,dun,51.02,-2.123,False,0,0,2,659,0.732,2.929,6.59
+Donington,dun,52.638,-2.29,False,0,0,0,6,0.007,0.027,0.06
+Donington on Bain,dun,53.325,-0.147,False,0,0,8,100,0.111,0.444,1.0
+Donnington,dun,52.008,-2.417,False,0,0,0,13,0.014,0.058,0.13
+Down Court,dun,50.604,-1.302,False,1,3,3,150,0.167,0.667,1.5
+Down St Mary,dun,50.826,-3.783,False,0,0,0,154,0.171,0.684,1.54
+Downe,dun,51.334,0.059,False,0,0,0,35,0.039,0.156,0.35
+Downham,dun,51.632,0.491,False,0,0,0,12,0.013,0.053,0.12
+Downham,dun,53.896,-2.329,False,0,0,0,35,0.039,0.156,0.35
+Downham Market,dun,52.605,0.383,False,0,0,0,72,0.08,0.32,0.72
+Downhead,dun,51.208,-2.438,False,0,0,0,324,0.36,1.44,3.24
+Downholme,dun,54.373,-1.824,False,0,0,0,23,0.026,0.102,0.23
+Downton,dun,52.356,-2.846,False,0,0,0,68,0.076,0.302,0.68
+Downton,dun,50.984,-1.738,False,0,0,2,803,0.892,3.569,8.03
+Duddun,dun,53.175,-2.727,False,0,0,0,20,0.022,0.089,0.2
+Dummer with Kempshot,dun,51.215,-1.164,False,0,0,1,164,0.182,0.729,1.64
+Dunchurch,dun,52.339,-1.29,False,0,0,0,21,0.023,0.093,0.21
+Duncliffe Hill,dun,51.003,-2.249,False,0,0,0,437,0.486,1.942,4.37
+Dundry,dun,51.396,-2.641,False,0,0,0,187,0.208,0.831,1.87
+Dungewood,dun,50.622,-1.344,False,0,0,2,181,0.201,0.804,1.81
+Dunham,dun,53.261,-0.78,False,0,0,0,12,0.013,0.053,0.12
+Dunham Massey,dun,53.384,-2.4,False,0,0,0,48,0.053,0.213,0.48
+Dunham on the Hill,dun,53.256,-2.788,False,0,0,0,17,0.019,0.076,0.17
+Dunnington,dun,53.964,-0.973,False,0,0,0,292,0.324,1.298,2.92
+Dunstable,dun,51.883,-0.512,False,0,1,1,47,0.052,0.209,0.47
+Dunstan,dun,55.469,-1.614,False,0,0,0,35,0.039,0.156,0.35
+Duntish,dun,50.857,-2.435,False,0,0,1,537,0.597,2.387,5.37
+Dunton,dun,52.085,-0.199,False,0,0,0,56,0.062,0.249,0.56
+Dunton,dun,51.589,0.388,False,0,0,0,13,0.014,0.058,0.13
+Dunton Bassett,dun,52.51,-1.198,False,0,0,0,15,0.017,0.067,0.15
+Dunton cum Doughton,dun,52.839,0.797,False,0,0,0,69,0.077,0.307,0.69
+Dunwich,dun,52.277,1.627,False,0,0,0,23,0.026,0.102,0.23
+Dunwood,dun,51.001,-1.552,False,0,0,0,644,0.716,2.862,6.44
+Durham,dun,54.786,-1.589,False,1,1,1,9,0.01,0.04,0.09
+Dutton,dun,53.311,-2.639,False,0,0,0,26,0.029,0.116,0.26
+Earsdon,dun,55.046,-1.493,False,0,0,0,15,0.017,0.067,0.15
+Earsdon,dun,55.235,-1.695,False,0,0,0,43,0.048,0.191,0.43
+East and West Clandon,dun,51.253,-0.475,False,0,0,0,66,0.073,0.293,0.66
+East and West Heddon,dun,55.011,-1.79,False,0,1,2,32,0.036,0.142,0.32
+East and West Horndon,dun,51.581,0.358,False,0,0,0,13,0.014,0.058,0.13
+East Claydon,dun,51.923,-0.933,False,0,0,0,40,0.044,0.178,0.4
+East Down,dun,51.156,-4.01,False,0,0,4,102,0.113,0.453,1.02
+East Farndon,dun,52.463,-0.949,False,0,0,0,20,0.022,0.089,0.2
+East Haddon,dun,52.311,-1.026,False,0,0,0,18,0.02,0.08,0.18
+East Langdon,dun,51.17,1.339,False,0,2,2,51,0.057,0.227,0.51
+East North and Up Marden,dun,50.924,-0.856,False,0,1,7,191,0.212,0.849,1.91
+Eatington,dun,52.143,-1.6,False,0,0,0,59,0.066,0.262,0.59
+Edgmond,dun,52.772,-2.409,False,0,0,0,11,0.012,0.049,0.11
+Edgton,dun,52.464,-2.907,False,0,0,0,69,0.077,0.307,0.69
+Edington,dun,51.281,-2.066,False,0,2,4,755,0.839,3.356,7.55
+Eggington,dun,51.92,-0.613,False,0,0,0,51,0.057,0.227,0.51
+Eldon,dun,54.642,-1.622,False,0,0,0,8,0.009,0.036,0.08
+Elkington,dun,52.383,-1.083,False,0,0,0,17,0.019,0.076,0.17
+Elloughton with Brough,dun,53.735,-0.569,False,0,0,0,98,0.109,0.436,0.98
+Elmdon,dun,52.449,-1.744,False,0,0,0,12,0.013,0.053,0.12
+Elmdon,dun,52.035,0.134,False,0,0,1,58,0.064,0.258,0.58
+Elsdon,dun,55.236,-2.104,False,0,0,0,102,0.113,0.453,1.02
+Embleton,dun,55.496,-1.63,False,0,0,0,35,0.039,0.156,0.35
+Endon,dun,53.079,-2.113,False,0,0,0,209,0.232,0.929,2.09
+Evedon,dun,53.014,-0.369,False,0,0,0,17,0.019,0.076,0.17
+Everdon,dun,52.212,-1.131,False,0,0,1,16,0.018,0.071,0.16
+Eydon,dun,52.15,-1.205,False,0,0,0,17,0.019,0.076,0.17
+Fallodon,dun,55.505,-1.677,False,0,0,0,37,0.041,0.164,0.37
+Faringdon,dun,51.114,-0.994,False,0,0,0,191,0.212,0.849,1.91
+Farlington,dun,50.845,-1.028,False,0,1,1,203,0.226,0.902,2.03
+Farndon,dun,53.064,-0.845,False,0,0,1,13,0.014,0.058,0.13
+Farndon,dun,53.084,-2.875,False,0,0,0,16,0.018,0.071,0.16
+Farringdon,dun,50.715,-3.397,False,0,0,0,73,0.081,0.324,0.73
+Farrington,dun,50.938,-2.227,False,0,0,0,513,0.57,2.28,5.13
+Fawdon,dun,55.011,-1.65,False,0,0,0,24,0.027,0.107,0.24
+Fawdon and Clinch,dun,55.433,-1.946,False,0,0,0,86,0.096,0.382,0.86
+Felkington,dun,55.694,-2.089,False,0,0,0,25,0.028,0.111,0.25
+Fern Down,dun,50.808,-1.898,False,1,4,14,569,0.632,2.529,5.69
+Findon,dun,50.865,-0.403,False,1,5,6,164,0.182,0.729,1.64
+Flordon,dun,52.532,1.22,False,0,0,0,27,0.03,0.12,0.27
+Fordon,dun,54.165,-0.401,False,0,8,15,535,0.594,2.378,5.35
+Foulden,dun,52.565,0.603,False,0,0,0,96,0.107,0.427,0.96
+Friston,dun,50.765,0.204,False,0,0,8,149,0.166,0.662,1.49
+Garsdon,dun,51.586,-2.052,False,0,0,0,301,0.334,1.338,3.01
+Garsington,dun,51.718,-1.155,False,0,0,0,66,0.073,0.293,0.66
+Gaydon,dun,52.179,-1.468,False,0,0,0,21,0.023,0.093,0.21
+Glanton,dun,55.424,-1.883,False,0,4,4,81,0.09,0.36,0.81
+Glendon,dun,52.425,-0.759,False,0,0,0,13,0.014,0.058,0.13
+Godington,dun,51.942,-1.078,False,0,0,0,31,0.034,0.138,0.31
+Great and Little Cowden,dun,53.856,-0.154,False,0,0,0,62,0.069,0.276,0.62
+Great and Little Dunham,dun,52.696,0.773,False,0,0,1,79,0.088,0.351,0.79
+Great and Little Dunmow,dun,51.868,0.359,False,0,1,1,22,0.024,0.098,0.22
+Great and Little Harrowden,dun,52.326,-0.718,False,0,0,0,19,0.021,0.084,0.19
+Great and Little Parndon,dun,51.757,0.078,False,0,3,3,18,0.02,0.08,0.18
+Great and Little Rissington,dun,51.856,-1.718,False,0,0,2,156,0.173,0.693,1.56
+Great and Little Saredon,dun,52.674,-2.068,False,0,0,0,8,0.009,0.036,0.08
+Great and Little Weldon,dun,52.496,-0.639,False,0,0,0,17,0.019,0.076,0.17
+Great Eversden,dun,52.163,-0.006,False,0,0,0,73,0.081,0.324,0.73
+Great Faringdon,dun,51.658,-1.589,False,0,0,0,187,0.208,0.831,1.87
+Great Longstone,dun,53.24,-1.694,False,0,0,7,263,0.292,1.169,2.63
+Great Oxendon,dun,52.444,-0.92,False,0,0,0,20,0.022,0.089,0.2
+Greenleighton,dun,55.218,-1.962,False,0,0,0,93,0.103,0.413,0.93
+Grendon,dun,52.593,-1.595,False,0,0,0,16,0.018,0.071,0.16
+Grendon,dun,52.236,-0.72,False,0,0,0,28,0.031,0.124,0.28
+Grendon Underwood,dun,51.879,-1.006,False,0,0,0,47,0.052,0.209,0.47
+Grindon,dun,54.623,-1.39,False,0,0,0,116,0.129,0.516,1.16
+Grindon,dun,53.088,-1.875,False,0,4,10,261,0.29,1.16,2.61
+Grindon,dun,55.694,-2.137,False,0,0,0,26,0.029,0.116,0.26
+Guilden Morden,dun,52.075,-0.141,False,0,0,0,62,0.069,0.276,0.62
+Haddon,dun,52.519,-0.329,False,0,0,1,39,0.043,0.173,0.39
+Hambledon,dun,50.926,-1.084,False,0,1,1,220,0.244,0.978,2.2
+Hambledon,dun,51.138,-0.622,False,0,0,0,192,0.213,0.853,1.92
+Hambledon Hill,dun,50.91,-2.217,False,0,0,0,568,0.631,2.524,5.68
+Hambleton,dun,52.658,-0.663,False,0,0,0,16,0.018,0.071,0.16
+Hannington,dun,51.64,-1.748,False,0,0,0,300,0.333,1.333,3.0
+Harbledown,dun,51.277,1.06,False,0,0,0,53,0.059,0.236,0.53
+Harley Down,dun,50.92,-1.992,False,3,5,8,563,0.626,2.502,5.63
+Harlington,dun,51.963,-0.495,False,0,0,0,53,0.059,0.236,0.53
+Harton,dun,54.974,-1.416,False,0,0,0,6,0.007,0.027,0.06
+Hatherton,dun,52.692,-2.068,False,0,0,0,10,0.011,0.044,0.1
+Hawkedon,dun,52.142,0.622,False,0,0,0,58,0.064,0.258,0.58
+Haydon,dun,50.941,-2.469,False,0,0,0,452,0.502,2.009,4.52
+Haydon,dun,50.908,-2.348,False,0,0,0,588,0.653,2.613,5.88
+Haydon,dun,50.938,-2.464,False,0,0,0,465,0.517,2.067,4.65
+Headington,dun,51.764,-1.212,False,0,0,0,78,0.087,0.347,0.78
+Headon cum Upton,dun,53.289,-0.884,False,0,0,0,9,0.01,0.04,0.09
+Heddon on the Wall,dun,54.993,-1.791,False,0,0,2,32,0.036,0.142,0.32
+Hedon,dun,53.739,-0.205,False,0,0,0,50,0.056,0.222,0.5
+Hellesdon,dun,52.665,1.259,False,0,0,0,18,0.02,0.08,0.18
+Hendon,dun,51.591,-0.219,False,0,0,0,17,0.019,0.076,0.17
+Henning Hill,dun,50.815,-2.338,False,0,1,4,620,0.689,2.756,6.2
+Hetton le Hole,dun,54.821,-1.449,False,0,1,1,5,0.006,0.022,0.05
+Hewish Farm,dun,50.802,-2.276,False,0,3,5,660,0.733,2.933,6.6
+Heydon,dun,52.804,1.136,False,0,0,0,46,0.051,0.204,0.46
+High Callerton,dun,55.029,-1.743,False,0,0,2,31,0.034,0.138,0.31
+Hillesden,dun,51.951,-1.005,False,0,0,0,32,0.036,0.142,0.32
+Hillingdon,dun,51.531,-0.437,False,0,0,0,33,0.037,0.147,0.33
+Hindon,dun,51.092,-2.123,False,0,1,2,616,0.684,2.738,6.16
+Hixon,dun,52.827,-1.994,False,0,0,0,76,0.084,0.338,0.76
+Hoddesdon,dun,51.767,-0.009,False,0,0,0,26,0.029,0.116,0.26
+Horndon-on-the-Hill,dun,51.526,0.399,False,0,0,0,15,0.017,0.067,0.15
+Horsenden,dun,51.716,-0.851,False,0,0,3,46,0.051,0.204,0.46
+Horton,dun,51.559,-2.355,False,0,0,0,78,0.087,0.347,0.78
+Humbleton,dun,55.55,-2.041,False,0,1,3,69,0.077,0.307,0.69
+Hunsdon,dun,51.811,0.051,False,0,0,1,40,0.044,0.178,0.4
+Huntingdon,dun,52.71,-2.038,False,0,0,0,10,0.011,0.044,0.1
+Huntingdon,dun,52.328,-0.189,False,0,0,0,54,0.06,0.24,0.54
+Huntington,dun,52.175,-3.091,False,0,0,0,21,0.023,0.093,0.21
+Huntington,dun,54.001,-1.048,False,0,0,0,269,0.299,1.196,2.69
+Huntington,dun,52.719,-2.038,False,0,0,0,11,0.012,0.049,0.11
+Huntington,dun,53.174,-2.862,False,0,0,0,16,0.018,0.071,0.16
+Hunton,dun,51.219,0.454,False,0,0,0,11,0.012,0.049,0.11
+Ilkeston,dun,52.978,-1.309,False,0,0,0,29,0.032,0.129,0.29
+Ilmington,dun,52.089,-1.688,False,0,0,0,91,0.101,0.404,0.91
+Islington,dun,51.553,-0.119,False,0,0,0,15,0.017,0.067,0.15
+Jordan Hill,dun,50.639,-2.425,False,0,1,6,522,0.58,2.32,5.22
+Kelvedon Hatch,dun,51.663,0.276,False,0,0,0,16,0.018,0.071,0.16
+Kilmersdon,dun,51.271,-2.439,False,0,0,0,326,0.362,1.449,3.26
+Kingsdon,dun,51.036,-2.693,False,0,0,0,176,0.196,0.782,1.76
+Kingsdown,dun,50.918,-2.287,False,0,0,0,544,0.604,2.418,5.44
+Kingsdown,dun,51.293,0.76,False,0,0,0,44,0.049,0.196,0.44
+Kingsdown,dun,51.349,0.26,False,0,0,0,18,0.02,0.08,0.18
+Knowlton,dun,50.89,-1.967,False,3,4,6,519,0.577,2.307,5.19
+Laindon,dun,51.579,0.43,False,0,0,0,10,0.011,0.044,0.1
+Langdon,dun,51.562,0.415,False,0,0,0,13,0.014,0.058,0.13
+Langton,dun,54.57,-1.746,False,0,0,0,13,0.014,0.058,0.13
+Larkton,dun,53.067,-2.755,False,0,1,1,18,0.02,0.08,0.18
+Lassington,dun,51.892,-2.299,False,0,0,0,92,0.102,0.409,0.92
+Latchingdon,dun,51.672,0.725,False,0,0,0,10,0.011,0.044,0.1
+Lea and Cleverton,dun,51.577,-2.066,False,0,0,0,296,0.329,1.316,2.96
+Leysdown,dun,51.397,0.924,False,0,0,0,33,0.037,0.147,0.33
+Linen Hill Fm,dun,50.859,-1.955,False,0,0,2,513,0.57,2.28,5.13
+Little Bowden,dun,52.48,-0.904,False,0,0,0,19,0.021,0.084,0.19
+Little Callerton,dun,55.011,-1.728,False,0,1,1,27,0.03,0.12,0.27
+Little Down,dun,51.017,-2.189,False,0,0,0,494,0.549,2.196,4.94
+Little Downham,dun,52.437,0.242,False,0,0,0,71,0.079,0.316,0.71
+Little Dunham,dun,52.678,0.757,False,0,0,0,80,0.089,0.356,0.8
+Little Eversden,dun,52.154,0.008,False,0,0,1,72,0.08,0.32,0.72
+Little Faringdon,dun,51.712,-1.676,False,0,0,0,214,0.238,0.951,2.14
+Little Longstone,dun,53.24,-1.724,False,1,7,12,264,0.293,1.173,2.64
+Long Crendon,dun,51.771,-0.994,False,0,0,0,45,0.05,0.2,0.45
+Longdon,dun,52.027,-2.242,False,0,0,0,49,0.054,0.218,0.49
+Longdon,dun,52.728,-1.876,False,0,0,0,16,0.018,0.071,0.16
+Longdon upon Tern,dun,52.736,-2.557,False,0,0,0,29,0.032,0.129,0.29
+Longsdon,dun,53.097,-2.054,False,0,0,0,240,0.267,1.067,2.4
+Luddesdown,dun,51.373,0.391,False,0,0,1,12,0.013,0.053,0.12
+Lyndon,dun,52.631,-0.664,False,0,0,0,18,0.02,0.08,0.18
+Main Down,dun,50.924,-2.097,False,2,2,8,553,0.614,2.458,5.53
+Malden,dun,51.385,-0.255,False,0,0,0,45,0.05,0.2,0.45
+Maldon,dun,51.726,0.685,False,0,0,0,11,0.012,0.049,0.11
+Manor Coppice & Hill,dun,50.939,-2.11,False,0,2,5,521,0.579,2.316,5.21
+Marldon,dun,50.46,-3.6,False,0,1,2,92,0.102,0.409,0.92
+"Marley Bottom, Pond, Wood",dun,50.647,-2.269,False,0,5,20,566,0.629,2.516,5.66
+Marsh Baldon,dun,51.691,-1.184,False,0,0,0,83,0.092,0.369,0.83
+Matson,dun,51.838,-2.212,False,0,0,0,125,0.139,0.556,1.25
+Maulden,dun,52.035,-0.463,False,0,2,2,55,0.061,0.244,0.55
+Meesden,dun,51.972,0.102,False,0,0,1,57,0.063,0.253,0.57
+Meldon,dun,55.146,-1.821,False,0,0,1,56,0.062,0.249,0.56
+Middle Claydon,dun,51.923,-0.947,False,0,0,0,42,0.047,0.187,0.42
+Morden,dun,50.76,-2.12,False,0,2,6,600,0.667,2.667,6.0
+Morden,dun,51.402,-0.197,False,0,0,0,41,0.046,0.182,0.41
+Morden,dun,50.759,-2.122,False,0,2,5,601,0.668,2.671,6.01
+Mordon,dun,54.633,-1.498,False,0,0,0,28,0.031,0.124,0.28
+Mundon,dun,51.69,0.711,False,0,0,0,10,0.011,0.044,0.1
+Nackington,dun,51.249,1.087,False,0,0,2,53,0.059,0.236,0.53
+Nether Haddon,dun,53.195,-1.65,False,0,5,7,255,0.283,1.133,2.55
+Norden Farm,dun,50.646,-2.071,False,4,5,21,448,0.498,1.991,4.48
+North and South Ockendon,dun,51.537,0.284,False,0,0,1,18,0.02,0.08,0.18
+Oddington,dun,51.835,-1.196,False,0,0,0,63,0.07,0.28,0.63
+Old Warden,dun,52.078,-0.345,False,0,0,0,51,0.057,0.227,0.51
+Over Haddon,dun,53.195,-1.695,False,2,5,7,261,0.29,1.16,2.61
+Ovington,dun,54.966,-1.9,False,0,0,0,44,0.049,0.196,0.44
+Oxenton,dun,51.982,-2.067,False,0,0,0,113,0.126,0.502,1.13
+Patson Hill Farm and Lane,dun,50.97,-2.546,False,0,0,0,269,0.299,1.196,2.69
+Peldon,dun,51.812,0.893,False,0,0,0,13,0.014,0.058,0.13
+Pilsdon,dun,50.792,-2.831,False,0,0,0,267,0.297,1.187,2.67
+Pittington,dun,54.794,-1.496,False,0,0,0,5,0.006,0.022,0.05
+Poundon,dun,51.924,-1.063,False,0,0,0,36,0.04,0.16,0.36
+Pudlestone,dun,52.232,-2.638,False,0,0,0,22,0.024,0.098,0.22
+Quarlton,dun,53.635,-2.372,False,0,0,0,21,0.023,0.093,0.21
+Quarndon,dun,52.97,-1.503,False,0,0,0,174,0.193,0.773,1.74
+Quarrendon,dun,51.832,-0.833,False,0,0,0,42,0.047,0.187,0.42
+Quorndon,dun,52.743,-1.164,False,0,0,0,10,0.011,0.044,0.1
+Rawdon,dun,53.851,-1.675,False,0,0,0,17,0.019,0.076,0.17
+Raydon,dun,52.007,0.978,False,0,0,0,45,0.05,0.2,0.45
+Repton,dun,52.835,-1.549,False,0,0,1,59,0.066,0.262,0.59
+Rettendon,dun,51.658,0.55,False,0,0,0,10,0.011,0.044,0.1
+Reydon,dun,52.348,1.662,False,0,0,0,16,0.018,0.071,0.16
+Rousdon,dun,50.719,-3.0,False,0,1,1,141,0.157,0.627,1.41
+Row Down Coppice,dun,50.655,-2.244,False,0,6,8,572,0.636,2.542,5.72
+Rowden Mill Copse,dun,50.921,-2.41,False,0,0,0,525,0.583,2.333,5.25
+Roxton,dun,52.177,-0.312,False,1,2,2,56,0.062,0.249,0.56
+Roydon,dun,52.382,1.077,False,0,0,0,48,0.053,0.213,0.48
+Roydon,dun,52.773,0.526,False,0,2,3,50,0.056,0.222,0.5
+Roydon,dun,51.766,0.049,False,0,0,3,20,0.022,0.089,0.2
+Russon,dun,50.944,-2.453,False,0,0,0,454,0.504,2.018,4.54
+Sandon,dun,51.993,-0.072,False,0,0,0,66,0.073,0.293,0.66
+Sandon,dun,52.863,-2.083,False,0,0,0,82,0.091,0.364,0.82
+Sandon,dun,51.712,0.524,False,0,0,0,12,0.013,0.053,0.12
+Santon Downham,dun,52.455,0.67,False,1,3,8,86,0.096,0.382,0.86
+Saredon,dun,52.674,-2.068,False,0,0,0,8,0.009,0.036,0.08
+Saunderton,dun,51.707,-0.851,False,0,2,7,46,0.051,0.204,0.46
+Seckington,dun,52.665,-1.61,False,0,0,0,17,0.019,0.076,0.17
+Sheldon,dun,53.213,-1.739,False,1,3,6,265,0.294,1.178,2.65
+Sheldon,dun,52.458,-1.773,False,0,0,0,9,0.01,0.04,0.09
+Shenington,dun,52.08,-1.454,False,0,0,0,78,0.087,0.347,0.78
+Shenley,dun,51.69,-0.273,False,0,0,0,32,0.036,0.142,0.32
+Shildon,dun,54.624,-1.638,False,0,0,0,8,0.009,0.036,0.08
+Shillington,dun,51.998,-0.363,False,0,0,0,63,0.07,0.28,0.63
+Shipton Lee,dun,51.887,-0.933,False,0,0,0,41,0.046,0.182,0.41
+Shobdon,dun,52.257,-2.873,False,1,1,2,42,0.047,0.187,0.42
+Sholden,dun,51.223,1.371,False,0,0,0,49,0.054,0.218,0.49
+Sibdown,dun,50.658,-1.301,False,0,1,2,189,0.21,0.84,1.89
+Sibson,dun,52.601,-1.477,False,0,0,0,20,0.022,0.089,0.2
+Siddington,dun,53.24,-2.234,False,0,2,3,89,0.099,0.396,0.89
+Slindon,dun,50.868,-0.63,False,0,0,0,166,0.184,0.738,1.66
+Slindon,dun,52.89,-2.262,False,0,0,0,16,0.018,0.071,0.16
+South Down Farm,dun,50.638,-2.343,False,1,4,12,549,0.61,2.44,5.49
+Spondon,dun,52.915,-1.399,False,0,0,0,38,0.042,0.169,0.38
+St Catherine's Down,dun,50.604,-1.302,False,1,3,3,150,0.167,0.667,1.5
+St. Martin's Down,dun,50.622,-1.203,False,0,3,3,125,0.139,0.556,1.25
+St. Nicholas Shaldon,dun,50.542,-3.504,False,0,0,0,64,0.071,0.284,0.64
+Standen,dun,50.685,-1.287,False,0,0,0,192,0.213,0.853,1.92
+Standon,dun,51.884,0.025,False,0,0,0,45,0.05,0.2,0.45
+Standon,dun,52.908,-2.276,False,0,0,0,16,0.018,0.071,0.16
+Steeple Claydon,dun,51.933,-0.991,False,0,0,0,40,0.044,0.178,0.4
+Steeple Morden,dun,52.066,-0.127,False,0,0,0,62,0.069,0.276,0.62
+Stoke sub Hamdon,dun,50.954,-2.749,False,0,0,0,134,0.149,0.596,1.34
+Stondon Massey,dun,51.681,0.291,False,0,0,0,16,0.018,0.071,0.16
+Stottesdon,dun,52.44,-2.48,False,0,0,0,41,0.046,0.182,0.41
+Sundon,dun,51.927,-0.467,False,0,0,0,53,0.059,0.236,0.53
+Sutton Downes,dun,53.214,-2.069,False,1,1,1,242,0.269,1.076,2.42
+Sutton Farm and Hill,dun,50.888,-1.91,False,1,1,9,515,0.572,2.289,5.15
+Swindon,dun,51.928,-2.096,False,0,0,0,138,0.153,0.613,1.38
+Swindon,dun,51.568,-1.778,False,0,0,1,302,0.336,1.342,3.02
+Swinton with Warthermarske,dun,54.211,-1.672,False,0,1,1,47,0.052,0.209,0.47
+Thorndon,dun,52.282,1.143,False,0,0,0,54,0.06,0.24,0.54
+Tiddington with Albury,dun,51.735,-1.053,False,0,0,0,44,0.049,0.196,0.44
+Toddington,dun,51.946,-0.525,False,0,0,0,54,0.06,0.24,0.54
+Toot Baldon,dun,51.7,-1.184,False,0,0,0,86,0.096,0.382,0.86
+Trimdon,dun,54.695,-1.435,False,0,0,0,24,0.027,0.107,0.24
+Trysull and Seisdon,dun,52.548,-2.215,False,0,0,0,8,0.009,0.036,0.08
+Underdown Hollow,dun,50.94,-2.601,False,0,0,0,283,0.314,1.258,2.83
+Upper and Lower Boddington,dun,52.178,-1.292,False,0,0,0,15,0.017,0.067,0.15
+Upper Eldon,dun,51.046,-1.481,False,0,1,1,597,0.663,2.653,5.97
+Upper Stondon,dun,52.006,-0.333,False,0,0,0,64,0.071,0.284,0.64
+Waddesdon,dun,51.842,-0.92,False,0,0,0,43,0.048,0.191,0.43
+Warden,dun,51.406,0.91,False,0,0,0,24,0.027,0.107,0.24
+Warden,dun,54.993,-2.134,False,0,0,0,40,0.044,0.178,0.4
+Warden Law,dun,54.839,-1.433,False,0,1,1,6,0.007,0.027,0.06
+Warndon,dun,52.216,-2.17,False,0,0,0,6,0.007,0.027,0.06
+Warslow and Elkstones,dun,53.124,-1.874,True,2,6,8,264,0.293,1.173,2.64
+Watton,dun,53.941,-0.455,False,0,0,0,315,0.35,1.4,3.15
+Wavendon,dun,52.028,-0.682,False,0,0,0,38,0.042,0.169,0.38
+Weedon,dun,51.859,-0.818,False,0,0,0,42,0.047,0.187,0.42
+Weedon Beck,dun,52.23,-1.086,False,0,0,0,17,0.019,0.076,0.17
+Weedon Lois,dun,52.122,-1.118,False,0,0,0,15,0.017,0.067,0.15
+Wembdon,dun,51.132,-3.023,False,0,0,0,155,0.172,0.689,1.55
+West Down,dun,51.162,-4.125,False,0,0,1,79,0.088,0.351,0.79
+West Haddon,dun,52.338,-1.069,False,0,0,0,19,0.021,0.084,0.19
+West Langdon,dun,51.179,1.325,False,2,2,2,52,0.058,0.231,0.52
+Wetton,dun,53.097,-1.845,False,1,6,21,259,0.288,1.151,2.59
+Whaddon,dun,52.1,-0.023,False,0,0,0,70,0.078,0.311,0.7
+Whaddon,dun,51.82,-2.241,False,0,0,0,110,0.122,0.489,1.1
+Whaddon,dun,51.352,-2.181,False,0,0,0,439,0.488,1.951,4.39
+Whaddon,dun,52.003,-0.829,False,1,1,1,33,0.037,0.147,0.33
+Wigton,dun,53.86,-1.507,False,0,0,0,12,0.013,0.053,0.12
+Wildon,dun,54.2,-1.212,False,0,0,0,281,0.312,1.249,2.81
+Willesden,dun,51.546,-0.235,False,0,0,0,16,0.018,0.071,0.16
+Willingdon,dun,50.8,0.262,False,0,4,12,149,0.166,0.662,1.49
+Wimbledon,dun,51.42,-0.211,False,0,0,0,42,0.047,0.187,0.42
+Winchendon,dun,51.824,-0.92,False,0,0,0,43,0.048,0.191,0.43
+Windlestone,dun,54.651,-1.591,False,0,0,0,8,0.009,0.036,0.08
+Withington,dun,51.838,-1.951,False,0,2,3,170,0.189,0.756,1.7
+Worplesdon,dun,51.272,-0.604,False,0,0,1,80,0.089,0.356,0.8
+Yeadon,dun,53.869,-1.69,False,0,0,0,19,0.021,0.084,0.19
+(Old) Boywood Farm,hyll,50.883,-2.376,False,0,0,0,595,0.661,2.644,5.95
+Abbey Hulton,hyll,53.034,-2.128,False,0,0,0,172,0.191,0.764,1.72
+Amber Hill,hyll,53.002,-0.161,False,0,0,0,15,0.017,0.067,0.15
+Ampthill,hyll,52.026,-0.493,False,0,0,0,49,0.054,0.218,0.49
+Ashill,hyll,52.606,0.782,False,0,0,0,96,0.107,0.427,0.96
+Aspull,hyll,53.572,-2.583,False,0,0,0,10,0.011,0.044,0.1
+Babylon Hill,hyll,50.943,-2.594,False,0,0,0,281,0.312,1.249,2.81
+Bailie Gate & Ho,hyll,50.791,-2.076,False,1,3,4,579,0.643,2.573,5.79
+Baslow and Bubnell,hyll,53.249,-1.619,True,0,0,3,238,0.264,1.058,2.38
+Bearl,hyll,54.975,-1.916,False,0,0,0,43,0.048,0.191,0.43
+Beech Hill,hyll,51.375,-1.003,False,0,0,0,90,0.1,0.4,0.9
+Bickenhill,hyll,52.44,-1.729,False,0,0,0,13,0.014,0.058,0.13
+Birtle cum Bamford,hyll,53.618,-2.251,False,0,0,0,20,0.022,0.089,0.2
+Blymhill,hyll,52.71,-2.29,False,0,0,0,11,0.012,0.049,0.11
+Bow Brickhill,hyll,52.002,-0.683,False,0,0,0,40,0.044,0.178,0.4
+Boylestone,hyll,52.917,-1.726,False,0,0,0,168,0.187,0.747,1.68
+Boys Hill,hyll,50.891,-2.466,False,0,0,0,496,0.551,2.204,4.96
+Bramshill,hyll,51.348,-0.932,False,0,0,0,87,0.097,0.387,0.87
+Brazenhill,hyll,52.791,-2.202,False,0,0,0,15,0.017,0.067,0.15
+Brill,hyll,51.816,-1.051,False,0,0,0,40,0.044,0.178,0.4
+Brindle,hyll,53.715,-2.615,False,0,0,0,11,0.012,0.049,0.11
+Broomhill,hyll,50.941,0.824,False,0,0,0,26,0.029,0.116,0.26
+Broomhill Farm,hyll,50.692,-2.271,False,3,10,12,598,0.664,2.658,5.98
+Bubbenhall,hyll,52.349,-1.466,False,0,0,0,16,0.018,0.071,0.16
+Bubnell,hyll,53.249,-1.634,False,0,1,3,246,0.273,1.093,2.46
+Bucknell,hyll,51.925,-1.18,False,0,0,0,45,0.05,0.2,0.45
+Bucknell,hyll,52.356,-2.948,False,0,0,0,68,0.076,0.302,0.68
+Burghill,hyll,52.096,-2.753,False,0,0,0,16,0.018,0.071,0.16
+Burrill with Cowling,hyll,54.283,-1.641,False,0,2,2,103,0.114,0.458,1.03
+Castle Hill,hyll,50.914,-1.917,False,0,2,3,549,0.61,2.44,5.49
+Caughall,hyll,53.228,-2.878,False,0,0,0,15,0.017,0.067,0.15
+Checkley cum Wrinehill,hyll,53.015,-2.396,False,0,0,0,34,0.038,0.151,0.34
+Chessell,hyll,50.668,-1.442,False,8,17,20,223,0.248,0.991,2.23
+Churchill,hyll,51.918,-1.587,False,1,3,4,139,0.154,0.618,1.39
+Churchill,hyll,52.18,-2.111,False,0,0,0,13,0.014,0.058,0.13
+Churchill,hyll,52.413,-2.17,False,0,0,0,7,0.008,0.031,0.07
+Churchill,hyll,51.332,-2.798,False,0,0,1,178,0.198,0.791,1.78
+Clennell,hyll,55.362,-2.12,False,0,2,4,94,0.104,0.418,0.94
+Clophill,hyll,52.034,-0.42,False,0,0,0,59,0.066,0.262,0.59
+Cockhill Coppice and Farm,hyll,50.946,-2.423,False,0,0,0,453,0.503,2.013,4.53
+Cocknowle,hyll,50.638,-2.095,False,2,8,24,451,0.501,2.004,4.51
+Colehill,hyll,50.812,-1.965,False,1,1,4,548,0.609,2.436,5.48
+Coleshill,hyll,51.64,-1.662,False,0,0,0,235,0.261,1.044,2.35
+Coleshill,hyll,52.503,-1.699,False,0,0,0,13,0.014,0.058,0.13
+Coleshill,hyll,51.65,-0.635,False,0,0,0,44,0.049,0.196,0.44
+Congleton,hyll,53.168,-2.203,False,0,0,0,163,0.181,0.724,1.63
+Coole Pilate,hyll,53.015,-2.516,False,0,0,0,29,0.032,0.129,0.29
+Coppidhall,hyll,50.711,-1.201,False,0,1,4,187,0.208,0.831,1.87
+Coppull,hyll,53.625,-2.659,False,0,0,0,12,0.013,0.053,0.12
+"Corfe Hill, Corfehill Farm",hyll,50.635,-2.474,False,0,0,0,510,0.567,2.267,5.1
+Crawley,hyll,55.442,-1.899,False,0,0,4,80,0.089,0.356,0.8
+Credenhill,hyll,52.087,-2.797,False,0,0,0,15,0.017,0.067,0.15
+Crigglestone,hyll,53.644,-1.525,False,0,0,0,11,0.012,0.049,0.11
+Cropwell Bishop,hyll,52.913,-0.983,False,0,0,0,7,0.008,0.031,0.07
+Cropwell Butler,hyll,52.93,-0.982,False,0,0,0,9,0.01,0.04,0.09
+Cudnell,hyll,50.769,-1.916,False,0,1,7,553,0.614,2.458,5.53
+Darknoll Farm,hyll,50.906,-2.284,False,0,0,1,596,0.662,2.649,5.96
+Deuxhill,hyll,52.485,-2.451,False,0,1,1,40,0.044,0.178,0.4
+Dodderhill,hyll,52.288,-2.111,False,0,0,0,6,0.007,0.027,0.06
+Earle,hyll,55.532,-2.025,False,0,2,3,73,0.081,0.324,0.73
+Earnshill,hyll,50.99,-2.878,False,0,0,0,45,0.05,0.2,0.45
+Easenhall,hyll,52.412,-1.318,False,0,0,0,15,0.017,0.067,0.15
+Easton-on-the-Hill,hyll,52.629,-0.517,False,0,0,0,32,0.036,0.142,0.32
+Eccleshill,hyll,53.707,-2.448,False,0,0,0,19,0.021,0.084,0.19
+Eccleshill,hyll,53.824,-1.736,False,0,0,0,25,0.028,0.111,0.25
+Etchilhampton,hyll,51.344,-1.937,False,0,0,0,763,0.848,3.391,7.63
+Farnhill,hyll,53.915,-1.994,False,0,2,2,37,0.041,0.164,0.37
+Foleshill,hyll,52.439,-1.479,False,0,0,0,13,0.014,0.058,0.13
+Forest Hill with Shotover,hyll,51.763,-1.139,False,0,0,0,70,0.078,0.311,0.7
+Froyle,hyll,51.186,-0.921,False,0,0,0,162,0.18,0.72,1.62
+Goathill,hyll,50.954,-2.462,False,0,0,0,414,0.46,1.84,4.14
+Goathill,hyll,50.956,-2.464,False,0,0,0,407,0.452,1.809,4.07
+Godshill,hyll,50.631,-1.259,False,0,0,0,157,0.174,0.698,1.57
+Gopsall,hyll,52.655,-1.477,False,0,0,0,16,0.018,0.071,0.16
+Great and Little Chishall,hyll,52.036,0.061,False,0,0,0,62,0.069,0.276,0.62
+Great and Little Ryle,hyll,55.406,-1.962,False,0,0,0,91,0.101,0.404,0.91
+Great and Little Snarehill,hyll,52.39,0.754,False,0,3,3,85,0.094,0.378,0.85
+Great Brickhill,hyll,51.966,-0.684,False,0,0,0,44,0.049,0.196,0.44
+Grinshill,hyll,52.807,-2.706,False,0,0,0,31,0.034,0.138,0.31
+Halton,hyll,55.002,-2.009,False,0,0,1,45,0.05,0.2,0.45
+Harnhill,hyll,51.703,-1.893,False,0,0,0,237,0.263,1.053,2.37
+Harthill,hyll,53.159,-1.665,False,1,1,2,249,0.277,1.107,2.49
+Harthill,hyll,53.094,-2.741,False,0,0,1,18,0.02,0.08,0.18
+Harthill,hyll,53.319,-1.258,False,0,0,0,30,0.033,0.133,0.3
+Hartshill,hyll,52.547,-1.522,False,1,1,1,16,0.018,0.071,0.16
+Haverhill,hyll,52.082,0.443,False,0,1,1,49,0.054,0.218,0.49
+Hellingly,hyll,50.89,0.252,False,0,0,0,152,0.169,0.676,1.52
+Henbury cum Pexall,hyll,53.258,-2.174,False,0,1,1,119,0.132,0.529,1.19
+Henhull,hyll,53.078,-2.546,False,0,0,0,30,0.033,0.133,0.3
+Hernhill,hyll,51.306,0.961,False,0,0,0,52,0.058,0.231,0.52
+Hethel,hyll,52.559,1.207,False,0,0,1,26,0.029,0.116,0.26
+High and Low Buston,hyll,55.37,-1.631,False,0,0,0,44,0.049,0.196,0.44
+Higham on the Hill,hyll,52.556,-1.434,False,0,0,0,15,0.017,0.067,0.15
+Hildenborough,hyll,51.214,0.239,False,0,0,0,17,0.019,0.076,0.17
+Hill,hyll,52.458,-2.038,False,0,0,0,3,0.003,0.013,0.03
+Hill,hyll,51.657,-2.515,False,0,0,0,67,0.074,0.298,0.67
+Hill and Moor,hyll,52.135,-2.023,False,0,0,0,57,0.063,0.253,0.57
+Hill Croome,hyll,52.063,-2.169,False,0,0,0,61,0.068,0.271,0.61
+Hill Deverill,hyll,51.164,-2.194,False,0,2,7,526,0.584,2.338,5.26
+Hill Fm,hyll,50.93,-2.163,False,1,2,3,537,0.597,2.387,5.37
+Hillam,hyll,53.75,-1.236,False,0,0,0,12,0.013,0.053,0.12
+Hillamsland,hyll,50.786,-1.9,False,4,7,11,568,0.631,2.524,5.68
+Hillfarrance,hyll,51.014,-3.192,False,0,0,0,85,0.094,0.378,0.85
+Hillfield,hyll,50.866,-2.52,False,0,0,0,443,0.492,1.969,4.43
+Hillhampton,hyll,52.287,-2.331,False,0,0,0,10,0.011,0.044,0.1
+Hillmorton,hyll,52.357,-1.216,False,0,0,0,19,0.021,0.084,0.19
+Hilton,hyll,52.647,-1.876,False,0,0,0,8,0.009,0.036,0.08
+Hilton,hyll,52.871,-1.637,False,0,1,1,129,0.143,0.573,1.29
+Hilton,hyll,52.281,-0.103,False,0,0,0,74,0.082,0.329,0.74
+Hilton,hyll,54.497,-1.284,False,0,0,0,279,0.31,1.24,2.79
+Hilton,hyll,52.647,-2.068,False,0,0,0,6,0.007,0.027,0.06
+Hinxhill,hyll,51.145,0.922,False,0,0,0,52,0.058,0.231,0.52
+Hockenhull,hyll,53.193,-2.772,False,0,0,0,16,0.018,0.071,0.16
+Hod Hill,hyll,50.897,-2.207,False,0,0,0,597,0.663,2.653,5.97
+Hodnell,hyll,52.214,-1.379,False,0,0,0,14,0.016,0.062,0.14
+Hordle,hyll,50.758,-1.611,False,0,0,0,315,0.35,1.4,3.15
+Ightenhill Park,hyll,53.806,-2.282,False,0,0,0,35,0.039,0.156,0.35
+Ixhill Hundred,hyll,51.808,-1.08,False,0,0,0,42,0.047,0.187,0.42
+Keele,hyll,53.006,-2.292,False,0,0,0,54,0.06,0.24,0.54
+Kelshall,hyll,52.011,-0.071,False,0,0,1,66,0.073,0.293,0.66
+Kick Hill Coppice,hyll,50.66,-2.216,False,0,9,18,577,0.641,2.564,5.77
+Kite Hill,hyll,50.72,-1.215,False,1,1,1,195,0.217,0.867,1.95
+Knowle Hill,hyll,50.887,-1.954,False,1,4,6,510,0.567,2.267,5.1
+Lilleshall,hyll,52.736,-2.409,False,0,0,0,11,0.012,0.049,0.11
+Little Brickhill,hyll,51.984,-0.684,False,0,0,0,44,0.049,0.196,0.44
+Little Middle and Over Hulton,hyll,53.527,-2.416,False,0,0,0,13,0.014,0.058,0.13
+Long Crichel,hyll,50.893,-2.033,False,0,2,12,568,0.631,2.524,5.68
+Long Crichel,hyll,50.894,-2.037,False,0,5,12,571,0.634,2.538,5.71
+Lophill Fm,hyll,50.842,-2.134,False,0,4,8,611,0.679,2.716,6.11
+Lyne Hill,hyll,52.71,-2.112,False,0,0,0,14,0.016,0.062,0.14
+Manor Coppice & Hill,hyll,50.939,-2.11,False,0,2,5,521,0.579,2.316,5.21
+Mansell Gamage,hyll,52.096,-2.885,False,0,0,0,15,0.017,0.067,0.15
+Mansell Lacy,hyll,52.105,-2.841,False,0,0,0,15,0.017,0.067,0.15
+Marnhull,hyll,50.968,-2.311,False,0,0,0,429,0.477,1.907,4.29
+Marnhull,hyll,50.966,-2.308,False,0,0,0,432,0.48,1.92,4.32
+Mattingley with Hazeley,hyll,51.312,-0.947,False,0,0,0,94,0.104,0.418,0.94
+Middleton and Smerrill,hyll,53.15,-1.71,False,1,7,11,257,0.286,1.142,2.57
+Monkhill,hyll,53.697,-1.312,False,0,0,1,11,0.012,0.049,0.11
+More Crichel,hyll,50.876,-2.008,False,0,0,3,538,0.598,2.391,5.38
+Moreton Morrell,hyll,52.206,-1.54,False,0,0,0,16,0.018,0.071,0.16
+North Hill,hyll,50.563,-4.437,False,0,0,12,245,0.272,1.089,2.45
+Odell,hyll,52.216,-0.589,False,0,0,0,26,0.029,0.116,0.26
+Ogle,hyll,55.101,-1.79,False,0,0,0,44,0.049,0.196,0.44
+Orrell,hyll,53.544,-2.703,False,0,0,0,10,0.011,0.044,0.1
+Orrell and Ford,hyll,53.488,-2.989,False,0,0,0,4,0.004,0.018,0.04
+Osehill Green,hyll,50.878,-2.477,False,0,0,0,483,0.537,2.147,4.83
+Pamphill,hyll,50.808,-2.018,False,0,0,1,571,0.634,2.538,5.71
+Patshull,hyll,52.602,-2.289,False,0,0,0,9,0.01,0.04,0.09
+Pattishall,hyll,52.185,-1.014,False,0,0,0,15,0.017,0.067,0.15
+Pendlebury,hyll,53.51,-2.326,False,0,0,0,31,0.034,0.138,0.31
+Pendleton,hyll,53.851,-2.359,False,0,0,0,36,0.04,0.16,0.36
+Pendleton,hyll,54.391,-2.286,False,0,0,0,51,0.057,0.227,0.51
+Penkhull,hyll,53.007,-2.218,False,0,0,0,125,0.139,0.556,1.25
+Pishill with Stonor,hyll,51.6,-0.94,False,0,0,0,52,0.058,0.231,0.52
+Poughill,hyll,50.865,-3.628,False,0,0,0,100,0.111,0.444,1.0
+Primesley,hyll,50.943,-2.485,False,0,0,0,432,0.48,1.92,4.32
+Pulloxhill,hyll,51.999,-0.45,False,0,0,0,56,0.062,0.249,0.56
+Queenhill,hyll,52.027,-2.213,False,0,0,0,58,0.064,0.258,0.58
+Ragnall,hyll,53.252,-0.795,False,0,0,0,12,0.013,0.053,0.12
+Rainhill,hyll,53.418,-2.761,False,0,0,0,16,0.018,0.071,0.16
+Ram's Hill,hyll,50.953,-2.267,False,0,0,0,476,0.529,2.116,4.76
+Redmarshall,hyll,54.587,-1.406,False,0,0,0,135,0.15,0.6,1.35
+Rill,hyll,50.649,-1.315,False,1,2,3,186,0.207,0.827,1.86
+Rowden Mill Copse,hyll,50.921,-2.41,False,0,0,0,525,0.583,2.333,5.25
+Ryal,hyll,55.065,-1.978,False,0,0,1,61,0.068,0.271,0.61
+Ryhill,hyll,53.626,-1.404,False,0,0,0,5,0.006,0.022,0.05
+Ryhill and Camerton,hyll,53.712,-0.145,False,0,0,0,45,0.05,0.2,0.45
+Sandhills,hyll,50.712,-1.343,False,1,1,1,208,0.231,0.924,2.08
+Sandleford,hyll,51.378,-1.319,False,0,1,2,172,0.191,0.764,1.72
+Sandley,hyll,51.023,-2.324,False,0,0,1,386,0.429,1.716,3.86
+Sedgehill,hyll,51.056,-2.194,False,0,0,0,524,0.582,2.329,5.24
+Shareshill,hyll,52.656,-2.083,False,0,0,0,7,0.008,0.031,0.07
+Sharnhill Green,hyll,50.849,-2.408,False,0,0,1,567,0.63,2.52,5.67
+Shelfield,hyll,52.62,-1.95,False,0,0,0,6,0.007,0.027,0.06
+Shottle and Postern,hyll,53.042,-1.532,False,0,0,0,208,0.231,0.924,2.08
+Snowshill,hyll,52.0,-1.863,False,1,1,1,137,0.152,0.609,1.37
+Solihull,hyll,52.413,-1.774,False,0,0,0,10,0.011,0.044,0.1
+Soothill,hyll,53.716,-1.6,False,0,0,0,11,0.012,0.049,0.11
+South Hill,hyll,50.528,-4.35,False,0,0,0,294,0.327,1.307,2.94
+Standard Hill,hyll,52.95,-1.161,False,0,0,0,6,0.007,0.027,0.06
+Stapenhill,hyll,52.79,-1.623,False,0,0,0,42,0.047,0.187,0.42
+Stapenhill,hyll,52.8,-1.623,False,0,0,0,53,0.059,0.236,0.53
+Staunton on Wye,hyll,52.104,-2.929,False,0,0,0,15,0.017,0.067,0.15
+Stramshall,hyll,52.917,-1.875,False,0,0,0,166,0.184,0.738,1.66
+Sugnall,hyll,52.872,-2.306,False,0,0,0,14,0.016,0.062,0.14
+Sunninghill,hyll,51.398,-0.629,False,0,1,1,54,0.06,0.24,0.54
+Swillington,hyll,53.769,-1.417,False,0,0,0,15,0.017,0.067,0.15
+Tatenhill,hyll,52.791,-1.697,False,0,0,1,61,0.068,0.271,0.61
+Thorn Hill Fm,hyll,50.837,-1.955,False,0,0,1,530,0.589,2.356,5.3
+Thornhill,hyll,50.933,-2.369,False,0,0,0,522,0.58,2.32,5.22
+Thornhill,hyll,53.348,-1.709,False,0,0,0,181,0.201,0.804,1.81
+Thornhill,hyll,53.662,-1.616,False,0,0,0,12,0.013,0.053,0.12
+Throphill,hyll,55.164,-1.79,False,0,0,0,55,0.061,0.244,0.55
+Tickhill,hyll,53.435,-1.121,False,0,0,0,5,0.006,0.022,0.05
+Tintinhull,hyll,50.973,-2.721,False,0,0,0,104,0.116,0.462,1.04
+Tottenhill,hyll,52.667,0.431,False,0,0,0,71,0.079,0.316,0.71
+Tutnall and Cobley,hyll,52.333,-2.009,False,0,0,0,6,0.007,0.027,0.06
+Wadmill Fm,hyll,50.978,-2.261,False,0,0,0,461,0.512,2.049,4.61
+Walton on the Hill,hyll,53.133,-1.874,False,1,2,10,269,0.299,1.196,2.69
+Wardle,hyll,53.113,-2.577,False,0,0,0,31,0.034,0.138,0.31
+Warthill,hyll,53.991,-0.972,False,0,0,0,306,0.34,1.36,3.06
+Welch Whettle,hyll,53.634,-2.72,False,0,0,0,12,0.013,0.053,0.12
+West Fossil Dairy and Farm,hyll,50.666,-2.295,False,2,12,17,574,0.638,2.551,5.74
+Wheathill,hyll,51.072,-2.594,False,0,0,0,225,0.25,1.0,2.25
+Wheathill,hyll,52.439,-2.553,False,0,0,0,50,0.056,0.222,0.5
+Whittle,hyll,55.352,-1.726,False,0,0,0,65,0.072,0.289,0.65
+Whittle,hyll,54.984,-1.884,False,0,0,0,44,0.049,0.196,0.44
+Whittle le Woods,hyll,53.688,-2.63,False,0,0,0,12,0.013,0.053,0.12
+Wincle,hyll,53.196,-2.054,False,1,3,3,251,0.279,1.116,2.51
+Windle,hyll,53.472,-2.777,False,0,0,0,11,0.012,0.049,0.11
+Winshill,hyll,52.808,-1.608,False,0,0,0,56,0.062,0.249,0.56
+Withnell,hyll,53.698,-2.539,False,0,0,0,19,0.021,0.084,0.19
+Woodbury Hill,hyll,50.752,-2.205,False,3,11,24,660,0.733,2.933,6.6
+Wormhill,hyll,53.267,-1.814,False,0,1,7,260,0.289,1.156,2.6
+Wormshill,hyll,51.285,0.702,False,0,0,0,36,0.04,0.16,0.36
+Wreighill,hyll,55.308,-2.041,False,0,1,8,102,0.113,0.453,1.02
+Wrelton,hyll,54.268,-0.827,False,0,0,3,829,0.921,3.684,8.29
+Wuerdle and Wardle,hyll,53.645,-2.13,False,0,0,0,21,0.023,0.093,0.21
+Ashow,hoh,52.332,-1.539,False,0,0,0,14,0.016,0.062,0.14
+Aynho,hoh,51.998,-1.251,False,0,1,1,48,0.053,0.213,0.48
+Belsay,hoh,55.101,-1.837,False,0,0,1,52,0.058,0.231,0.52
+Bengeo,hoh,51.804,-0.08,False,0,0,1,41,0.046,0.182,0.41
+Bletsoe,hoh,52.215,-0.501,False,0,0,0,29,0.032,0.129,0.29
+Boothby Graffoe,hoh,53.124,-0.53,False,0,0,0,20,0.022,0.089,0.2
+Cambo,hoh,55.164,-1.962,False,0,1,1,83,0.092,0.369,0.83
+Cashio Hundred,hoh,51.656,-0.39,False,0,0,0,32,0.036,0.142,0.32
+Cloffocks,hoh,54.651,-3.544,False,0,0,0,13,0.014,0.058,0.13
+Cogenhoe,hoh,52.236,-0.793,False,0,1,1,22,0.024,0.098,0.22
+Cornsay,hoh,54.786,-1.776,False,0,0,0,9,0.01,0.04,0.09
+Coxhoe,hoh,54.722,-1.512,False,0,0,0,7,0.008,0.031,0.07
+Cracoe,hoh,54.04,-2.04,False,0,0,0,38,0.042,0.169,0.38
+Cranham,hoh,51.564,0.271,False,0,0,0,16,0.018,0.071,0.16
+Cranoe,hoh,52.552,-0.888,False,0,0,0,12,0.013,0.053,0.12
+Culpho,hoh,52.1,1.233,False,0,0,0,50,0.056,0.222,0.5
+Dallinghoo,hoh,52.142,1.309,False,0,0,0,52,0.058,0.231,0.52
+Downholland,hoh,53.56,-2.96,False,0,0,0,6,0.007,0.027,0.06
+Duddo,hoh,55.676,-2.105,False,0,0,1,28,0.031,0.124,0.28
+East and West Shaftoe,hoh,55.128,-1.915,False,0,1,1,70,0.078,0.311,0.7
+Farthinghoe,hoh,52.051,-1.221,False,0,0,0,34,0.038,0.151,0.34
+Fingringhoe,hoh,51.846,0.938,False,1,1,1,26,0.029,0.116,0.26
+Fitz,hoh,52.752,-2.824,False,0,0,0,45,0.05,0.2,0.45
+Furtho,hoh,52.084,-0.87,False,0,0,0,17,0.019,0.076,0.17
+Glass Houghton,hoh,53.715,-1.327,False,0,0,1,11,0.012,0.049,0.11
+Great and Little Holland,hoh,51.83,1.213,False,0,0,0,39,0.043,0.173,0.39
+Great and Little Houghton,hoh,52.219,-0.838,False,0,0,0,18,0.02,0.08,0.18
+Great and Little Houghton,hoh,53.553,-1.345,False,0,0,0,6,0.007,0.027,0.06
+Hamfordshoe Hundred,hoh,52.263,-0.749,False,0,0,1,24,0.027,0.107,0.24
+Hanging Houghton,hoh,52.354,-0.893,False,0,0,0,15,0.017,0.067,0.15
+Haughton,hoh,53.245,-0.99,False,0,0,0,6,0.007,0.027,0.06
+Heugh,hoh,55.056,-1.868,False,0,0,0,47,0.052,0.209,0.47
+High Hoyland,hoh,53.59,-1.586,False,0,0,0,14,0.016,0.062,0.14
+High Hutton,hoh,54.107,-0.847,False,0,0,1,530,0.589,2.356,5.3
+Hoby with Rotherby,hoh,52.751,-1.016,False,0,0,0,4,0.004,0.018,0.04
+Hoe,hoh,52.709,0.952,False,0,0,0,89,0.099,0.396,0.89
+Hoghton,hoh,53.734,-2.585,False,0,0,0,17,0.019,0.076,0.17
+Holme on the Wolds,hoh,53.906,-0.533,True,0,0,0,293,0.326,1.302,2.93
+Holton cum Beckering,hoh,53.319,-0.328,False,0,0,0,85,0.094,0.378,0.85
+Holton le Clay,hoh,53.504,-0.064,False,0,0,1,77,0.086,0.342,0.77
+Holton le Moor,hoh,53.472,-0.367,False,0,0,0,78,0.087,0.347,0.78
+Hoo,hoh,52.188,1.298,False,0,0,0,51,0.057,0.227,0.51
+Hoo All Hallows,hoh,51.467,0.64,False,0,0,0,7,0.008,0.031,0.07
+Hoo St Werburgh,hoh,51.424,0.552,False,0,0,0,10,0.011,0.044,0.1
+Hooe,hoh,50.86,0.393,False,0,0,0,110,0.122,0.489,1.1
+Hooton,hoh,53.3,-2.954,False,0,0,0,15,0.017,0.067,0.15
+Hooton Levitt,hoh,53.418,-1.212,False,0,0,0,5,0.006,0.022,0.05
+Hooton Pagnell,hoh,53.571,-1.269,False,0,0,0,4,0.004,0.018,0.04
+Hooton Roberts,hoh,53.472,-1.271,False,0,0,0,6,0.007,0.027,0.06
+Hose,hoh,52.858,-0.91,False,0,0,0,6,0.007,0.027,0.06
+Hothorpe,hoh,52.463,-1.023,False,0,0,0,18,0.02,0.08,0.18
+Hoton,hoh,52.797,-1.149,False,0,0,0,6,0.007,0.027,0.06
+Hough,hoh,53.06,-2.427,False,0,0,0,37,0.041,0.164,0.37
+Houghton,hoh,52.327,-0.116,False,0,0,0,58,0.064,0.258,0.58
+Houghton,hoh,51.091,-1.509,False,0,0,1,656,0.729,2.916,6.56
+Houghton,hoh,50.894,-0.558,False,0,1,6,169,0.188,0.751,1.69
+Houghton,hoh,52.815,0.662,False,0,1,5,50,0.056,0.222,0.5
+Houghton and Close House,hoh,54.993,-1.806,False,0,0,0,35,0.039,0.156,0.35
+Houghton Conquest,hoh,52.062,-0.477,False,0,2,2,53,0.059,0.236,0.53
+Houghton le Side,hoh,54.588,-1.653,False,0,0,0,11,0.012,0.049,0.11
+Houghton le Spring,hoh,54.839,-1.464,False,1,1,1,6,0.007,0.027,0.06
+Houghton Middleton and Arbury,hoh,53.419,-2.566,False,0,0,1,27,0.03,0.12,0.27
+Houghton on the Hill,hoh,52.625,-1.004,False,0,0,0,10,0.011,0.044,0.1
+Houghton on the Hill,hoh,52.615,0.768,False,0,0,0,94,0.104,0.418,0.94
+Houghton Regis,hoh,51.91,-0.511,False,0,0,0,54,0.06,0.24,0.54
+Houghton St Giles,hoh,52.882,0.859,False,0,0,0,67,0.074,0.298,0.67
+Howick,hoh,53.742,-2.752,False,0,0,0,10,0.011,0.044,0.1
+Hoxne,hoh,52.352,1.207,False,0,0,0,28,0.031,0.124,0.28
+Hoyland Swaine,hoh,53.536,-1.602,False,0,0,0,33,0.037,0.147,0.33
+Huby,hoh,54.1,-1.137,False,0,0,0,302,0.336,1.342,3.02
+Huggate,hoh,53.988,-0.652,True,0,0,24,350,0.389,1.556,3.5
+Hulland,hoh,53.015,-1.636,False,0,1,1,215,0.239,0.956,2.15
+Hulland Ward,hoh,53.024,-1.621,False,0,0,0,215,0.239,0.956,2.15
+Huttoft,hoh,53.264,0.27,False,0,0,0,47,0.052,0.209,0.47
+Hutton,hoh,51.322,-2.927,False,0,2,2,186,0.207,0.827,1.86
+Hutton,hoh,51.626,0.361,False,0,0,0,13,0.014,0.058,0.13
+Hutton,hoh,53.732,-2.767,False,0,0,0,10,0.011,0.044,0.1
+Hutton Bonville,hoh,54.399,-1.486,False,0,0,0,190,0.211,0.844,1.9
+Hutton Bushell,hoh,54.247,-0.505,False,0,0,2,566,0.629,2.516,5.66
+Hutton Conyers,hoh,54.156,-1.504,False,0,0,5,134,0.149,0.596,1.34
+Hutton Cranswick,hoh,53.958,-0.439,False,0,0,0,315,0.35,1.4,3.15
+Hutton Hang,hoh,54.292,-1.733,False,0,0,0,34,0.038,0.151,0.34
+Hutton Henry,hoh,54.722,-1.342,False,0,0,0,33,0.037,0.147,0.33
+Hutton in the Forest,hoh,54.712,-2.847,False,0,0,0,80,0.089,0.356,0.8
+Hutton John,hoh,54.63,-2.877,False,0,0,1,87,0.097,0.387,0.87
+Hutton le Hole,hoh,54.305,-0.918,False,2,2,3,766,0.851,3.404,7.66
+Hutton Lowcross,hoh,54.513,-1.082,False,7,12,17,340,0.378,1.511,3.4
+Hutton Magna,hoh,54.508,-1.808,False,0,0,0,14,0.016,0.062,0.14
+Hutton Mulgrave,hoh,54.483,-0.713,False,0,5,7,529,0.588,2.351,5.29
+Hutton Roof,hoh,54.702,-2.971,False,0,0,3,67,0.074,0.298,0.67
+Hutton Roof,hoh,54.2,-2.668,False,0,0,0,16,0.018,0.071,0.16
+Hutton Rudby,hoh,54.452,-1.284,False,0,0,0,308,0.342,1.369,3.08
+Hutton Sessay,hoh,54.182,-1.274,False,0,0,0,255,0.283,1.133,2.55
+Hutton Soil,hoh,54.63,-2.877,False,0,0,1,87,0.097,0.387,0.87
+Hutton Wandesley,hoh,53.948,-1.232,False,0,0,0,79,0.088,0.351,0.79
+Ingoe,hoh,55.065,-1.947,False,1,1,2,61,0.068,0.271,0.61
+Ivinghoe,hoh,51.839,-0.63,False,0,5,6,48,0.053,0.213,0.48
+Kew,hoh,51.484,-0.295,False,0,0,0,40,0.044,0.178,0.4
+Keysoe,hoh,52.259,-0.426,False,0,0,0,28,0.031,0.124,0.28
+Kyo,hoh,54.867,-1.729,False,0,0,0,12,0.013,0.053,0.12
+Langenhoe,hoh,51.829,0.908,False,0,0,0,13,0.014,0.058,0.13
+Limpenhoe,hoh,52.576,1.533,False,0,0,0,10,0.011,0.044,0.1
+Littlehoughton,hoh,55.442,-1.63,False,0,0,0,38,0.042,0.169,0.38
+Longhoughton,hoh,55.433,-1.614,False,0,0,0,36,0.04,0.16,0.36
+Lubenham,hoh,52.481,-0.963,False,0,0,0,18,0.02,0.08,0.18
+Martinhoe,hoh,51.22,-3.913,False,1,1,1,93,0.103,0.413,0.93
+Midloe,hoh,52.266,-0.294,False,0,0,0,51,0.057,0.227,0.51
+Morthoe,hoh,51.188,-4.212,False,0,0,0,64,0.071,0.284,0.64
+Moulsoe,hoh,52.064,-0.681,False,0,0,0,38,0.042,0.169,0.38
+Nether Hoyland,hoh,53.5,-1.451,False,0,0,0,22,0.024,0.098,0.22
+New Hutton,hoh,54.317,-2.67,False,0,0,0,67,0.074,0.298,0.67
+Nuffield,hoh,51.582,-1.042,False,0,0,0,55,0.061,0.244,0.55
+Old Hutton and Holmscales,hoh,54.29,-2.67,False,0,0,0,63,0.07,0.28,0.63
+Penton Grafton or Weyhill,hoh,51.226,-1.536,False,0,0,1,608,0.676,2.702,6.08
+Petsoe,hoh,52.136,-0.665,False,0,0,0,33,0.037,0.147,0.33
+Piddinghoe,hoh,50.813,0.036,False,0,2,3,161,0.179,0.716,1.61
+Pinhoe,hoh,50.741,-3.468,False,0,0,0,87,0.097,0.387,0.87
+Priest Hutton,hoh,54.155,-2.714,False,0,1,1,17,0.019,0.076,0.17
+Prudhoe,hoh,54.957,-1.853,False,0,0,0,34,0.038,0.151,0.34
+Rainow,hoh,53.286,-2.069,False,1,3,4,186,0.207,0.827,1.86
+Rivergreen,hoh,55.155,-1.79,False,0,0,0,55,0.061,0.244,0.55
+Sand Hutton,hoh,54.018,-0.941,False,0,0,0,328,0.364,1.458,3.28
+Sand Hutton,hoh,54.237,-1.411,False,0,0,0,222,0.247,0.987,2.22
+Sandhoe,hoh,54.993,-2.041,False,0,0,1,43,0.048,0.191,0.43
+Scottow,hoh,52.761,1.37,False,0,0,0,31,0.034,0.138,0.31
+Sharow,hoh,54.138,-1.504,False,0,0,1,124,0.138,0.551,1.24
+Sheriff Hutton with Cornbrough,hoh,54.09,-1.0,False,0,0,0,394,0.438,1.751,3.94
+Shotwick,hoh,53.236,-2.998,False,0,0,0,14,0.016,0.062,0.14
+Shotwick Park,hoh,53.237,-2.968,False,0,0,0,15,0.017,0.067,0.15
+Silpho,hoh,54.319,-0.518,False,2,18,31,471,0.523,2.093,4.71
+Silsoe,hoh,52.007,-0.421,False,0,0,0,57,0.063,0.253,0.57
+Southoe,hoh,52.266,-0.265,False,0,0,0,60,0.067,0.267,0.6
+Spelhoe Hundred,hoh,52.255,-0.837,False,0,0,0,17,0.019,0.076,0.17
+St Mary's Hoo,hoh,51.459,0.597,False,0,0,0,7,0.008,0.031,0.07
+Stanhoe,hoh,52.896,0.682,False,0,0,0,58,0.064,0.258,0.58
+Staploe Hundred,hoh,52.184,0.317,False,0,0,2,79,0.088,0.351,0.79
+Stenigot,hoh,53.316,-0.118,False,0,3,7,101,0.112,0.449,1.01
+Swinhoe,hoh,55.55,-1.677,False,0,0,0,35,0.039,0.156,0.35
+Tattenhoe,hoh,52.003,-0.785,False,0,0,0,33,0.037,0.147,0.33
+Torpenhow and Whitrigg,hoh,54.744,-3.236,False,0,0,0,19,0.021,0.084,0.19
+Totternhoe,hoh,51.883,-0.556,False,0,1,1,52,0.058,0.231,0.52
+Trentishoe,hoh,51.22,-3.942,False,0,1,2,93,0.103,0.413,0.93
+Tudhoe,hoh,54.714,-1.59,False,0,0,0,7,0.008,0.031,0.07
+Tysoe Upper Middle and Lower,hoh,52.098,-1.498,False,0,0,0,81,0.09,0.36,0.81
+Upholland,hoh,53.544,-2.733,False,0,0,0,10,0.011,0.044,0.1
+Wadenhoe,hoh,52.44,-0.508,False,0,0,0,29,0.032,0.129,0.29
+Whessoe,hoh,54.561,-1.576,False,0,0,0,44,0.049,0.196,0.44
+Wivenhoe,hoh,51.855,0.954,False,1,1,2,26,0.029,0.116,0.26
+Wixoe,hoh,52.054,0.5,False,0,0,0,42,0.047,0.187,0.42
+Wysall,hoh,52.842,-1.103,False,0,0,0,9,0.01,0.04,0.09
+Abbotsbury,burh,50.668,-2.603,False,2,7,14,415,0.461,1.844,4.15
+Aconbury,burh,51.998,-2.708,False,0,0,0,11,0.012,0.049,0.11
+Alberbury,burh,52.724,-2.942,False,0,0,0,47,0.052,0.209,0.47
+Albury,burh,51.901,0.084,False,0,0,0,49,0.054,0.218,0.49
+Albury,burh,51.217,-0.491,False,0,2,2,73,0.081,0.324,0.73
+Alconbury,burh,52.365,-0.261,False,0,0,0,59,0.066,0.262,0.59
+Aldborough,burh,52.864,1.245,False,0,0,0,30,0.033,0.133,0.3
+Aldborough,burh,54.093,-1.382,False,0,0,0,151,0.168,0.671,1.51
+Aldbrough,burh,54.498,-1.685,False,0,0,0,27,0.03,0.12,0.27
+Aldbrough,burh,53.828,-0.11,False,0,0,0,36,0.04,0.16,0.36
+Aldbury,burh,51.803,-0.602,False,1,4,4,49,0.054,0.218,0.49
+Aldeburgh,burh,52.152,1.602,False,0,0,0,50,0.056,0.222,0.5
+Alderbury,burh,51.047,-1.737,False,0,0,0,756,0.84,3.36,7.56
+Almondbury,burh,53.636,-1.752,False,0,0,0,18,0.02,0.08,0.18
+Almondsbury,burh,51.558,-2.571,False,0,0,0,75,0.083,0.333,0.75
+Amesbury,burh,51.172,-1.765,False,1,27,62,836,0.929,3.716,8.36
+Ashbury,burh,51.568,-1.619,False,0,1,1,306,0.34,1.36,3.06
+Ashbury,burh,50.767,-4.121,False,0,3,3,213,0.237,0.947,2.13
+Attleborough,burh,52.519,1.013,False,0,0,0,64,0.071,0.284,0.64
+Avebury,burh,51.424,-1.865,False,4,18,56,670,0.744,2.978,6.7
+Avenbury,burh,52.17,-2.506,False,0,0,0,17,0.019,0.076,0.17
+Aylesbury,burh,51.814,-0.819,False,0,0,0,44,0.049,0.196,0.44
+Badbury Clump and Rings,burh,50.827,-2.052,False,1,4,7,571,0.634,2.538,5.71
+Badby,burh,52.222,-1.174,False,0,0,0,16,0.018,0.071,0.16
+Bamburgh,burh,55.604,-1.708,False,1,1,1,34,0.038,0.151,0.34
+Banbury,burh,52.061,-1.338,False,0,0,0,48,0.053,0.213,0.48
+Barlborough,burh,53.292,-1.289,False,0,0,0,47,0.052,0.209,0.47
+Barnburgh,burh,53.526,-1.27,False,0,0,0,3,0.003,0.013,0.03
+Baumber,burh,53.253,-0.165,False,0,0,0,99,0.11,0.44,0.99
+Bawburgh,burh,52.631,1.183,False,0,0,0,23,0.026,0.102,0.23
+Bearley,burh,52.242,-1.73,False,0,0,0,7,0.008,0.031,0.07
+Beckbury,burh,52.611,-2.348,False,0,0,0,9,0.01,0.04,0.09
+Berrington,burh,52.663,-2.704,False,0,0,0,48,0.053,0.213,0.48
+Berry Pomeroy,burh,50.442,-3.656,False,0,0,1,114,0.127,0.507,1.14
+Berrynarbor,burh,51.2,-4.055,False,0,0,4,76,0.084,0.338,0.76
+Bibury,burh,51.757,-1.835,False,0,0,0,187,0.208,0.831,1.87
+Bigbury,burh,50.303,-3.876,False,1,1,1,95,0.106,0.422,0.95
+Bilborough,burh,52.968,-1.22,False,0,0,0,9,0.01,0.04,0.09
+Bilbrough,burh,53.912,-1.187,False,0,0,0,56,0.062,0.249,0.56
+Billingborough,burh,52.896,-0.344,False,2,2,2,17,0.019,0.076,0.17
+Bilsborough,burh,53.858,-2.739,False,0,0,0,9,0.01,0.04,0.09
+Birdingbury,burh,52.313,-1.363,False,0,0,0,18,0.02,0.08,0.18
+Birley,burh,52.177,-2.798,False,0,0,0,27,0.03,0.12,0.27
+Birstall,burh,52.68,-1.121,False,0,0,0,7,0.008,0.031,0.07
+Blewbury,burh,51.566,-1.23,False,0,2,4,83,0.092,0.369,0.83
+Blyborough,burh,53.439,-0.594,False,0,0,0,55,0.061,0.244,0.55
+Blythburgh,burh,52.323,1.601,False,0,2,3,17,0.019,0.076,0.17
+Boarhunt,burh,50.873,-1.142,False,0,0,0,251,0.279,1.116,2.51
+Boarstall,burh,51.826,-1.095,False,0,0,0,52,0.058,0.231,0.52
+Boraston,burh,52.331,-2.566,False,0,0,0,33,0.037,0.147,0.33
+Borough Fen,burh,52.633,-0.147,False,3,3,3,41,0.046,0.182,0.41
+Borough Green,burh,51.294,0.301,False,0,0,0,18,0.02,0.08,0.18
+Boroughbridge,burh,54.093,-1.398,False,0,0,0,142,0.158,0.631,1.42
+Bosbury,burh,52.089,-2.447,False,0,0,0,5,0.006,0.022,0.05
+Bower Chalke,burh,51.011,-1.966,False,0,2,7,830,0.922,3.689,8.3
+Braceborough,burh,52.708,-0.395,False,0,0,0,36,0.04,0.16,0.36
+Bradbury,burh,54.651,-1.513,False,0,0,0,24,0.027,0.107,0.24
+Brant Broughton,burh,53.08,-0.635,False,0,0,0,21,0.023,0.093,0.21
+Bredbury,burh,53.42,-2.114,False,0,0,0,78,0.087,0.347,0.78
+Bredenbury,burh,52.205,-2.565,False,0,0,0,21,0.023,0.093,0.21
+Broadhembury,burh,50.833,-3.272,False,0,0,1,87,0.097,0.387,0.87
+Brobury,burh,52.095,-2.958,False,0,0,0,15,0.017,0.067,0.15
+Bromborough,burh,53.336,-2.97,False,0,0,0,12,0.013,0.053,0.12
+Brough,burh,54.525,-2.318,False,0,0,0,55,0.061,0.244,0.55
+Brough and Shatton,burh,53.339,-1.724,False,0,0,2,197,0.219,0.876,1.97
+Brough Hall,burh,52.8,-2.246,False,0,0,0,14,0.016,0.062,0.14
+Brough Hall,burh,54.373,-1.671,False,0,0,2,81,0.09,0.36,0.81
+Brougham,burh,54.632,-2.66,False,0,0,0,94,0.104,0.418,0.94
+Broughton,burh,53.564,-0.544,False,0,1,1,54,0.06,0.24,0.54
+Broughton,burh,52.816,-2.751,False,0,0,0,32,0.036,0.142,0.32
+Bucklebury,burh,51.431,-1.203,False,0,0,0,98,0.109,0.436,0.98
+Bulbury Camp,burh,50.748,-2.103,False,0,0,2,581,0.646,2.582,5.81
+Bulphan,burh,51.544,0.371,False,0,0,0,14,0.016,0.062,0.14
+Bunbury,burh,53.122,-2.651,False,0,1,1,26,0.029,0.116,0.26
+Burbage,burh,53.25,-1.934,False,0,1,2,270,0.3,1.2,2.7
+Burbage,burh,51.352,-1.664,False,0,0,1,739,0.821,3.284,7.39
+Burbage,burh,52.529,-1.345,False,0,0,2,13,0.014,0.058,0.13
+Burford,burh,51.811,-1.632,False,0,0,1,151,0.168,0.671,1.51
+Burford,burh,52.313,-2.61,False,0,0,0,35,0.039,0.156,0.35
+Burgh,burh,52.8,1.284,False,0,0,0,32,0.036,0.142,0.32
+Burgh,burh,52.117,1.263,False,0,0,0,50,0.056,0.222,0.5
+Burgh by Sands,burh,54.926,-3.055,False,0,0,0,16,0.018,0.071,0.16
+Burgh Castle,burh,52.582,1.652,False,0,0,1,7,0.008,0.031,0.07
+Burgh le Marsh,burh,53.156,0.249,False,1,1,1,38,0.042,0.169,0.38
+Burgh on Bain,burh,53.361,-0.161,False,1,3,7,98,0.109,0.436,0.98
+Burgh St. Margaret,burh,52.673,1.615,False,0,0,0,8,0.009,0.036,0.08
+Burgh St. Peter,burh,52.484,1.629,False,0,0,0,7,0.008,0.031,0.07
+Burghclere,burh,51.351,-1.319,False,0,0,0,205,0.228,0.911,2.05
+Burghill,burh,52.096,-2.753,False,0,0,0,16,0.018,0.071,0.16
+Burghwallis,burh,53.597,-1.193,False,0,0,0,8,0.009,0.036,0.08
+Burham,burh,51.326,0.474,False,0,0,1,11,0.012,0.049,0.11
+Burley,burh,52.685,-0.692,False,0,0,0,13,0.014,0.058,0.13
+Burley,burh,50.831,-1.696,False,0,5,11,415,0.461,1.844,4.15
+Burley in Wharfedale,burh,53.914,-1.75,False,0,0,0,22,0.024,0.098,0.22
+Burpham,burh,50.867,-0.516,False,0,0,1,151,0.168,0.671,1.51
+Burradon,burh,55.046,-1.571,False,0,0,0,17,0.019,0.076,0.17
+Burradon,burh,55.352,-2.025,False,0,0,0,96,0.107,0.427,0.96
+Burrill with Cowling,burh,54.283,-1.641,False,0,2,2,103,0.114,0.458,1.03
+Burrington,burh,52.348,-2.816,False,0,0,0,68,0.076,0.302,0.68
+Burrington,burh,51.332,-2.741,False,0,0,2,178,0.198,0.791,1.78
+Burrough Green,burh,52.174,0.39,False,0,0,0,65,0.072,0.289,0.65
+Burrough on the Hill,burh,52.687,-0.884,False,0,0,0,6,0.007,0.027,0.06
+Burrow with Burrow,burh,54.183,-2.576,False,0,0,0,11,0.012,0.049,0.11
+Burscough,burh,53.588,-2.855,False,0,0,0,9,0.01,0.04,0.09
+Burstow,burh,51.149,-0.121,False,0,0,0,71,0.079,0.316,0.71
+Burton,burh,53.259,-0.555,False,0,0,1,44,0.049,0.196,0.44
+Burton by Tarvin,burh,53.175,-2.727,False,0,0,0,20,0.022,0.089,0.2
+Burton Coggles,burh,52.818,-0.555,False,0,0,0,20,0.022,0.089,0.2
+Burton Joyce,burh,52.985,-1.041,False,0,0,0,11,0.012,0.049,0.11
+Burton Latimer,burh,52.361,-0.687,False,0,0,0,15,0.017,0.067,0.15
+Burton Lazars,burh,52.741,-0.868,False,0,0,0,6,0.007,0.027,0.06
+Burton on the Wolds,burh,52.788,-1.119,False,0,0,0,6,0.007,0.027,0.06
+Burton Pedwardine,burh,52.968,-0.341,False,0,0,0,15,0.017,0.067,0.15
+Burwash,burh,50.996,0.386,False,0,0,0,86,0.096,0.382,0.86
+Burwell,burh,52.274,0.322,False,0,0,0,79,0.088,0.351,0.79
+Burwell,burh,53.295,0.032,False,0,1,2,96,0.107,0.427,0.96
+Burwood,burh,50.928,-1.912,False,0,0,2,637,0.708,2.831,6.37
+Bury,burh,52.434,-0.111,False,0,0,0,54,0.06,0.24,0.54
+Bury,burh,50.912,-0.558,False,0,0,7,174,0.193,0.773,1.74
+Bury,burh,53.591,-2.296,False,0,0,0,22,0.024,0.098,0.22
+Bury St Edmunds,burh,52.247,0.716,False,0,0,0,73,0.081,0.324,0.73
+Bushbury,burh,52.629,-2.112,False,0,0,0,9,0.01,0.04,0.09
+Cadbury,burh,50.839,-3.556,False,0,0,0,105,0.117,0.467,1.05
+Canterbury,burh,51.276,1.088,False,0,0,0,53,0.059,0.236,0.53
+Chalbury,burh,50.654,-2.432,False,2,9,17,522,0.58,2.32,5.22
+Chalbury,burh,50.861,-1.975,False,0,1,3,530,0.589,2.356,5.3
+Charlbury,burh,51.873,-1.486,False,1,2,5,119,0.132,0.529,1.19
+Cheeseburn Grange,burh,55.038,-1.853,False,0,0,0,43,0.048,0.191,0.43
+Chipping Sodbury,burh,51.541,-2.383,False,0,0,0,83,0.092,0.369,0.83
+Chirbury,burh,52.579,-3.086,False,0,0,0,55,0.061,0.244,0.55
+Cholesbury,burh,51.758,-0.647,False,0,0,0,45,0.05,0.2,0.45
+Clarborough,burh,53.343,-0.897,False,0,0,0,8,0.009,0.036,0.08
+Cleobury Mortimer,burh,52.377,-2.479,False,0,0,0,19,0.021,0.084,0.19
+Cleobury North,burh,52.484,-2.554,False,0,0,0,53,0.059,0.236,0.53
+Clunbury,burh,52.419,-2.92,False,0,1,1,69,0.077,0.307,0.69
+Congresbury,burh,51.368,-2.813,False,0,0,0,176,0.196,0.782,1.76
+Conisbrough,burh,53.481,-1.24,False,0,0,0,5,0.006,0.022,0.05
+Cookbury,burh,50.836,-4.266,False,0,0,0,166,0.184,0.738,1.66
+Cornbury Park,burh,51.855,-1.486,False,1,4,10,118,0.131,0.524,1.18
+Countisbury,burh,51.231,-3.799,False,0,0,1,102,0.113,0.453,1.02
+Curbar,burh,53.267,-1.619,False,1,2,3,230,0.256,1.022,2.3
+Dalbury Lees,burh,52.916,-1.607,False,0,0,0,152,0.169,0.676,1.52
+Danbury,burh,51.72,0.583,False,0,0,0,14,0.016,0.062,0.14
+Daresbury,burh,53.338,-2.64,False,0,0,0,25,0.028,0.111,0.25
+Denbury,burh,50.514,-3.659,False,0,0,1,149,0.166,0.662,1.49
+Desborough,burh,52.444,-0.817,False,0,0,1,14,0.016,0.062,0.14
+Dewsbury,burh,53.698,-1.63,False,0,0,0,9,0.01,0.04,0.09
+Dickleburgh,burh,52.397,1.196,False,0,0,0,25,0.028,0.111,0.25
+Diddlebury,burh,52.465,-2.73,False,0,0,0,72,0.08,0.32,0.72
+Didsbury,burh,53.42,-2.22,False,0,0,0,62,0.069,0.276,0.62
+Dringhoe Upton and Brough,burh,53.974,-0.241,False,0,0,0,183,0.203,0.813,1.83
+"Duds Bury, Dudsbury",burh,50.784,-1.89,False,5,7,11,558,0.62,2.48,5.58
+Duxbury,burh,53.634,-2.629,False,0,0,0,13,0.014,0.058,0.13
+East and West Adderbury,burh,52.016,-1.324,False,0,0,0,57,0.063,0.253,0.57
+East and West Tilbury,burh,51.48,0.425,False,0,0,0,14,0.016,0.062,0.14
+East and West Tisbury,burh,51.065,-2.08,False,0,1,1,689,0.766,3.062,6.89
+"Eastbury Dairy, Ho",burh,50.914,-2.096,False,1,3,13,560,0.622,2.489,5.6
+Eddisbury,burh,53.221,-2.668,False,0,0,6,26,0.029,0.116,0.26
+Eggborough,burh,53.705,-1.146,False,0,0,0,11,0.012,0.049,0.11
+Ellenborough and Ewanrigg,burh,54.705,-3.484,False,0,1,1,15,0.017,0.067,0.15
+Elloughton with Brough,burh,53.735,-0.569,False,0,0,0,98,0.109,0.436,0.98
+Ensbury,burh,50.768,-1.886,False,0,0,5,548,0.609,2.436,5.48
+Exbury,burh,50.802,-1.398,False,0,1,5,286,0.318,1.271,2.86
+Eynesbury,burh,52.221,-0.267,False,0,0,0,61,0.068,0.271,0.61
+Fladbury,burh,52.117,-2.009,False,0,0,0,66,0.073,0.293,0.66
+Flamborough,burh,54.116,-0.127,False,0,0,0,103,0.114,0.458,1.03
+Flax Bourton,burh,51.422,-2.713,False,0,0,0,184,0.204,0.818,1.84
+Fledborough,burh,53.243,-0.78,False,0,0,0,12,0.013,0.053,0.12
+Flixborough,burh,53.629,-0.678,False,0,0,0,55,0.061,0.244,0.55
+Flower's Barrow,burh,50.624,-2.193,False,4,11,13,521,0.579,2.316,5.21
+Frindsbury,burh,51.398,0.507,False,0,0,0,11,0.012,0.049,0.11
+Gainsborough,burh,53.396,-0.776,False,0,0,0,10,0.011,0.044,0.1
+Glastonbury,burh,51.144,-2.723,False,0,0,0,173,0.192,0.769,1.73
+Goldsborough,burh,54.003,-1.414,False,0,0,0,62,0.069,0.276,0.62
+Greasby,burh,53.379,-3.121,False,0,0,0,0,0.0,0.0,0.0
+Great and Little Burstead,burh,51.606,0.432,False,0,0,0,11,0.012,0.049,0.11
+Great and Little Hallingbury,burh,51.854,0.198,False,0,0,0,39,0.043,0.173,0.39
+Great and Little Ryburgh,burh,52.81,0.899,False,0,0,0,72,0.08,0.32,0.72
+Great Burdon,burh,54.543,-1.515,False,0,0,0,91,0.101,0.404,0.91
+Grundisburgh,burh,52.117,1.248,False,0,0,0,50,0.056,0.222,0.5
+Guilsborough,burh,52.355,-1.01,False,0,0,0,22,0.024,0.098,0.22
+Habrough,burh,53.606,-0.271,False,0,0,0,73,0.081,0.324,0.73
+Hanbury,burh,52.27,-2.053,False,0,0,0,6,0.007,0.027,0.06
+Hanbury,burh,52.845,-1.742,False,0,0,0,119,0.132,0.529,1.19
+Harbury,burh,52.232,-1.452,False,0,0,0,11,0.012,0.049,0.11
+Hartlebury,burh,52.332,-2.229,False,0,0,0,10,0.011,0.044,0.1
+Hasbury,burh,52.449,-2.068,False,0,0,0,3,0.003,0.013,0.03
+Hawkesbury,burh,51.586,-2.341,False,0,0,1,85,0.094,0.378,0.85
+Hemingbrough,burh,53.766,-0.977,False,0,0,0,83,0.092,0.369,0.83
+Henbury,burh,51.504,-2.628,False,0,1,1,194,0.216,0.862,1.94
+Henbury cum Pexall,burh,53.258,-2.174,False,0,1,1,119,0.132,0.529,1.19
+"Henbury Fm, Ho & Manor",burh,50.784,-2.053,False,0,1,4,566,0.629,2.516,5.66
+Hertingfordbury,burh,51.796,-0.095,False,0,0,0,42,0.047,0.187,0.42
+Heytesbury,burh,51.182,-2.109,False,2,14,19,722,0.802,3.209,7.22
+Horbury,burh,53.662,-1.555,False,0,0,0,11,0.012,0.049,0.11
+Ickburgh,burh,52.518,0.674,False,0,1,2,91,0.101,0.404,0.91
+Idbury,burh,51.883,-1.66,False,0,0,1,144,0.16,0.64,1.44
+Irthlingborough,burh,52.324,-0.615,False,0,1,2,28,0.031,0.124,0.28
+Kentisbury,burh,51.183,-3.969,False,0,0,3,107,0.119,0.476,1.07
+Kexbrough,burh,53.581,-1.541,False,0,0,0,13,0.014,0.058,0.13
+Kingsbury,burh,51.592,-0.276,False,0,0,0,17,0.019,0.076,0.17
+Kingsbury,burh,52.566,-1.684,False,0,0,0,13,0.014,0.058,0.13
+Kingsbury Episcopi,burh,50.99,-2.806,False,0,0,0,68,0.076,0.302,0.68
+Kintbury,burh,51.396,-1.448,False,0,0,0,374,0.416,1.662,3.74
+Kislingbury,burh,52.229,-0.984,False,0,0,1,19,0.021,0.084,0.19
+Knaresborough,burh,54.012,-1.46,False,0,0,0,48,0.053,0.213,0.48
+Lathbury,burh,52.101,-0.724,False,0,0,1,33,0.037,0.147,0.33
+Ledbury,burh,52.035,-2.417,False,0,0,0,6,0.007,0.027,0.06
+Lesbury,burh,55.397,-1.631,False,0,0,0,39,0.043,0.173,0.39
+Limbury,burh,51.909,-0.453,False,0,0,0,53,0.059,0.236,0.53
+Little Sodbury,burh,51.55,-2.355,False,0,0,0,76,0.084,0.338,0.76
+Littleborough,burh,53.333,-0.763,False,0,0,0,10,0.011,0.044,0.1
+Littlebury,burh,52.033,0.207,False,0,0,0,52,0.058,0.231,0.52
+Londesborough with Easthorpe,burh,53.898,-0.685,False,0,0,0,284,0.316,1.262,2.84
+Loughborough,burh,52.77,-1.208,False,0,0,0,6,0.007,0.027,0.06
+Ludborough,burh,53.44,-0.052,False,0,0,0,94,0.104,0.418,0.94
+Luxborough,burh,51.128,-3.466,False,0,0,6,123,0.137,0.547,1.23
+Lydbury North,burh,52.473,-2.951,False,0,0,0,69,0.077,0.307,0.69
+Malmesbury,burh,51.586,-2.095,False,0,0,0,288,0.32,1.28,2.88
+Marbury,burh,53.284,-2.534,False,0,0,0,31,0.034,0.138,0.31
+Marbury cum Quoisley,burh,53.005,-2.65,False,0,0,0,21,0.023,0.093,0.21
+Marksbury,burh,51.361,-2.483,False,0,0,0,238,0.264,1.058,2.38
+Mashbury,burh,51.778,0.383,False,0,0,0,18,0.02,0.08,0.18
+Maugersbury,burh,51.928,-1.703,False,0,0,0,145,0.161,0.644,1.45
+Melbury Abbas,burh,50.981,-2.167,False,0,5,7,493,0.548,2.191,4.93
+Melbury Abbas,burh,50.984,-2.165,False,0,6,7,501,0.557,2.227,5.01
+Melbury Bubb,burh,50.857,-2.577,False,0,0,0,396,0.44,1.76,3.96
+Melbury Osmund,burh,50.865,-2.605,False,0,0,0,364,0.404,1.618,3.64
+Melbury Sampford,burh,50.856,-2.605,False,0,0,0,371,0.412,1.649,3.71
+Membury,burh,50.826,-3.031,False,0,0,0,78,0.087,0.347,0.78
+Mexborough,burh,53.499,-1.285,False,0,0,0,5,0.006,0.022,0.05
+Middlesbrough,burh,54.577,-1.236,False,0,0,0,245,0.272,1.089,2.45
+Mistleberry Wd,burh,50.975,-2.008,False,0,0,6,758,0.842,3.369,7.58
+Mixbury,burh,51.997,-1.12,False,0,0,0,26,0.029,0.116,0.26
+Mobberley,burh,53.312,-2.324,False,0,0,0,55,0.061,0.244,0.55
+Modbury,burh,50.348,-3.892,False,0,0,0,126,0.14,0.56,1.26
+Musbury,burh,53.689,-2.372,False,0,0,0,23,0.026,0.102,0.23
+Musbury,burh,50.746,-3.029,False,0,0,0,94,0.104,0.418,0.94
+Narborough,burh,52.573,-1.197,False,0,0,0,13,0.014,0.058,0.13
+Narborough,burh,52.682,0.58,False,0,0,0,73,0.081,0.324,0.73
+Naseby,burh,52.391,-0.995,False,0,1,1,21,0.023,0.093,0.21
+Netherbury,burh,50.793,-2.746,False,0,1,1,287,0.319,1.276,2.87
+Newball,burh,53.275,-0.389,False,0,0,0,79,0.088,0.351,0.79
+Newbold Astbury,burh,53.15,-2.233,False,0,0,0,144,0.16,0.64,1.44
+Newborough,burh,52.827,-1.801,False,0,0,0,101,0.112,0.449,1.01
+Newborough,burh,52.634,-0.221,False,0,2,5,37,0.041,0.164,0.37
+Newbrough,burh,55.002,-2.197,False,0,0,0,45,0.05,0.2,0.45
+Newburgh,burh,54.181,-1.166,False,0,0,2,324,0.36,1.44,3.24
+Newburn,burh,54.984,-1.697,False,0,0,0,25,0.028,0.111,0.25
+Newbury,burh,51.404,-1.318,False,0,0,0,159,0.177,0.707,1.59
+Newbury House,burh,51.035,-2.269,False,0,0,1,389,0.432,1.729,3.89
+Norbury,burh,52.809,-2.32,False,1,1,1,12,0.013,0.053,0.12
+Norbury,burh,53.366,-2.114,False,0,0,0,102,0.113,0.453,1.02
+Norbury,burh,53.023,-2.65,False,0,0,0,20,0.022,0.089,0.2
+Norbury,burh,52.527,-2.937,False,0,1,1,66,0.073,0.293,0.66
+Norbury and Roston,burh,52.98,-1.815,False,0,3,4,196,0.218,0.871,1.96
+North and South Cadbury,burh,51.046,-2.522,False,0,0,0,251,0.279,1.116,2.51
+North and South Shoebury,burh,51.535,0.803,False,0,0,0,6,0.007,0.027,0.06
+Northborough,burh,52.653,-0.294,False,0,1,2,33,0.037,0.147,0.33
+Old Sodbury,burh,51.532,-2.355,False,0,0,0,82,0.091,0.364,0.82
+Oldbury,burh,52.547,-1.537,False,1,1,1,16,0.018,0.071,0.16
+Oldbury,burh,52.53,-2.422,False,0,0,0,31,0.034,0.138,0.31
+Oldbury and Langley,burh,52.503,-2.024,False,0,0,0,4,0.004,0.018,0.04
+Oldbury on the Hill,burh,51.595,-2.268,False,0,4,7,97,0.108,0.431,0.97
+Onibury,burh,52.411,-2.803,False,0,0,0,69,0.077,0.307,0.69
+Orlingbury,burh,52.344,-0.732,False,0,0,0,17,0.019,0.076,0.17
+Overbury,burh,52.036,-2.067,False,0,0,0,90,0.1,0.4,0.9
+Owslebury,burh,51.009,-1.267,False,0,1,3,247,0.274,1.098,2.47
+Oxborough,burh,52.583,0.574,False,0,0,0,90,0.1,0.4,0.9
+Padbury,burh,51.968,-0.946,False,0,0,1,33,0.037,0.147,0.33
+Payhembury,burh,50.806,-3.3,False,0,0,0,80,0.089,0.356,0.8
+Pembury,burh,51.141,0.322,False,0,0,0,17,0.019,0.076,0.17
+Pendlebury,burh,53.51,-2.326,False,0,0,0,31,0.034,0.138,0.31
+Peterborough,burh,52.58,-0.238,False,0,0,1,43,0.048,0.191,0.43
+Pontesbury,burh,52.653,-2.881,False,0,0,0,55,0.061,0.244,0.55
+Portbury,burh,51.476,-2.714,False,0,0,0,178,0.198,0.791,1.78
+Prestbury,burh,51.91,-2.038,False,0,1,2,145,0.161,0.644,1.45
+Prestbury,burh,53.294,-2.144,False,1,1,2,119,0.132,0.529,1.19
+Queenborough,burh,51.41,0.752,False,0,0,0,21,0.023,0.093,0.21
+Queniborough,burh,52.706,-1.047,False,0,0,0,5,0.006,0.022,0.05
+Ramsbury,burh,50.903,-2.375,False,0,0,0,578,0.642,2.569,5.78
+Ramsbury,burh,51.442,-1.606,False,0,0,1,442,0.491,1.964,4.42
+Rawlsbury Camp,burh,50.852,-2.332,False,1,4,6,639,0.71,2.84,6.39
+Rothbury,burh,55.308,-1.915,False,0,1,3,97,0.108,0.431,0.97
+Rugby,burh,52.375,-1.26,False,1,1,1,19,0.021,0.084,0.19
+Rumburgh,burh,52.381,1.444,False,0,0,0,21,0.023,0.093,0.21
+Rushbury,burh,52.519,-2.716,False,0,0,0,64,0.071,0.284,0.64
+Saintbury,burh,52.054,-1.834,False,0,0,0,106,0.118,0.471,1.06
+Salesbury,burh,53.788,-2.495,False,0,0,0,23,0.026,0.102,0.23
+Salisbury,burh,51.065,-1.794,False,0,0,0,789,0.877,3.507,7.89
+Samlesbury,burh,53.769,-2.616,False,0,0,0,15,0.017,0.067,0.15
+Shaftesbury,burh,51.006,-2.197,False,0,0,0,461,0.512,2.049,4.61
+Shaftesbury,burh,51.002,-2.194,False,0,0,0,466,0.518,2.071,4.66
+Shawbury,burh,52.789,-2.661,False,0,0,0,31,0.034,0.138,0.31
+Sheriff Hutton with Cornbrough,burh,54.09,-1.0,False,0,0,0,394,0.438,1.751,3.94
+Shermanbury,burh,50.962,-0.285,False,0,0,0,174,0.193,0.773,1.74
+Shrewsbury,burh,52.708,-2.749,False,0,0,0,46,0.051,0.204,0.46
+Sidbury,burh,52.466,-2.465,False,0,0,0,40,0.044,0.178,0.4
+Sidbury,burh,50.717,-3.227,False,0,0,0,77,0.086,0.342,0.77
+Skinburness Marsh,burh,54.887,-3.366,False,0,0,0,5,0.006,0.022,0.05
+Sockburn,burh,54.462,-1.469,False,0,0,0,200,0.222,0.889,2.0
+Soulbury,burh,51.939,-0.714,False,0,0,0,45,0.05,0.2,0.45
+Spelsbury,burh,51.891,-1.486,False,0,0,5,119,0.132,0.529,1.19
+Spettisbury,burh,50.826,-2.13,False,0,0,3,612,0.68,2.72,6.12
+Spettisbury,burh,50.822,-2.122,False,0,0,3,611,0.679,2.716,6.11
+Sprotbrough,burh,53.516,-1.18,False,0,0,0,2,0.002,0.009,0.02
+Stainborough,burh,53.527,-1.526,False,0,0,0,25,0.028,0.111,0.25
+Stallingborough,burh,53.586,-0.181,False,0,0,0,69,0.077,0.307,0.69
+Stenbury,burh,50.613,-1.245,False,0,3,3,139,0.154,0.618,1.39
+Stoborough,burh,50.676,-2.108,False,2,7,20,509,0.566,2.262,5.09
+Stuchbury,burh,52.087,-1.177,False,0,0,0,23,0.026,0.102,0.23
+Sudborough,burh,52.432,-0.582,False,0,0,0,22,0.024,0.098,0.22
+Sudbury,burh,52.89,-1.756,False,0,0,0,152,0.169,0.676,1.52
+Sudbury,burh,52.04,0.732,False,0,0,0,23,0.026,0.102,0.23
+Summersbury,burh,50.64,-1.231,False,0,0,0,152,0.169,0.676,1.52
+Sunbury,burh,51.414,-0.412,False,1,1,1,51,0.057,0.227,0.51
+Tasburgh,burh,52.513,1.248,False,0,0,0,25,0.028,0.111,0.25
+Tenbury,burh,52.313,-2.595,False,0,0,0,32,0.036,0.142,0.32
+Tetbury,burh,51.64,-2.153,False,0,1,4,140,0.156,0.622,1.4
+Tewkesbury,burh,51.991,-2.154,False,0,0,0,98,0.109,0.436,0.98
+Thornbury,burh,52.232,-2.55,False,0,0,0,22,0.024,0.098,0.22
+Thornbury,burh,51.612,-2.514,False,0,0,1,78,0.087,0.347,0.78
+Thornbury,burh,50.854,-4.267,False,0,0,0,158,0.176,0.702,1.58
+Tidcombe and Fosbury,burh,51.325,-1.578,False,1,4,13,761,0.846,3.382,7.61
+Tiddington with Albury,burh,51.735,-1.053,False,0,0,0,44,0.049,0.196,0.44
+Tilbury-juxta-Clare,burh,52.035,0.572,False,0,0,0,41,0.046,0.182,0.41
+Timsbury,burh,51.019,-1.51,False,0,0,0,605,0.672,2.689,6.05
+Tollesbury,burh,51.759,0.831,False,0,0,0,12,0.013,0.053,0.12
+Tutbury,burh,52.854,-1.697,False,0,0,0,126,0.14,0.56,1.26
+Upton Snodsbury,burh,52.189,-2.082,False,0,0,0,11,0.012,0.049,0.11
+Wappenbury,burh,52.322,-1.451,False,0,0,0,17,0.019,0.076,0.17
+Washingborough,burh,53.222,-0.466,False,0,0,0,63,0.07,0.28,0.63
+Wateringbury,burh,51.256,0.428,False,0,0,0,10,0.011,0.044,0.1
+Wednesbury,burh,52.557,-2.024,False,0,0,0,6,0.007,0.027,0.06
+Wellingborough,burh,52.298,-0.689,False,0,0,0,24,0.027,0.107,0.24
+Wembury,burh,50.318,-4.073,False,0,0,0,109,0.121,0.484,1.09
+Wendlebury,burh,51.871,-1.181,False,0,0,0,61,0.068,0.271,0.61
+West Burton,burh,53.361,-0.822,False,0,0,0,9,0.01,0.04,0.09
+Westbury,burh,51.262,-2.181,False,0,0,8,585,0.65,2.6,5.85
+Westbury,burh,51.252,-2.711,False,12,33,41,178,0.198,0.791,1.78
+Westbury,burh,52.014,-1.091,False,0,0,0,23,0.026,0.102,0.23
+Westbury,burh,52.679,-2.955,False,0,0,0,54,0.06,0.24,0.54
+Westbury Fm,burh,50.916,-2.107,False,0,4,8,555,0.617,2.467,5.55
+Westbury on Severn,burh,51.828,-2.4,False,0,0,0,78,0.087,0.347,0.78
+Westbury on Trym,burh,51.495,-2.628,False,0,1,1,197,0.219,0.876,1.97
+Whitsbury,burh,50.975,-1.823,False,0,1,3,797,0.886,3.542,7.97
+Whittlebury,burh,52.086,-0.987,False,0,0,0,15,0.017,0.067,0.15
+Woodborough,burh,53.021,-1.055,False,0,0,0,7,0.008,0.031,0.07
+Woodbury,burh,50.679,-3.395,False,0,2,6,70,0.078,0.311,0.7
+Woodbury Coppice,burh,50.667,-2.146,False,1,10,30,529,0.588,2.351,5.29
+Woodbury Hill,burh,50.752,-2.205,False,3,11,24,660,0.733,2.933,6.6
+Worsbrough,burh,53.527,-1.466,False,0,0,0,17,0.019,0.076,0.17
+Wrenbury cum Frith,burh,53.023,-2.605,False,0,0,0,22,0.024,0.098,0.22
+Wybunbury,burh,53.042,-2.456,False,0,0,0,33,0.037,0.147,0.33
+Wyrardisbury,burh,51.461,-0.555,False,0,0,0,44,0.049,0.196,0.44
+Yatesbury,burh,51.442,-1.908,False,2,4,19,563,0.626,2.502,5.63
+Ackbury Heath,bearu,52.656,-2.186,False,0,0,0,7,0.008,0.031,0.07
+Adber,bearu,50.982,-2.572,False,0,0,0,236,0.262,1.049,2.36
+Aylesbeare,bearu,50.724,-3.368,False,0,0,1,75,0.083,0.333,0.75
+Bagber,bearu,50.923,-2.351,False,0,0,0,567,0.63,2.52,5.67
+Bagber Farm,bearu,50.792,-2.273,False,0,3,11,661,0.734,2.938,6.61
+Barrow,bearu,53.211,-2.788,False,0,0,0,16,0.018,0.071,0.16
+Barrow,bearu,52.601,-2.511,False,0,0,0,46,0.051,0.204,0.46
+Barrow,bearu,52.25,0.584,False,1,1,1,80,0.089,0.356,0.8
+Barrow Gurney,bearu,51.405,-2.67,False,0,0,1,185,0.206,0.822,1.85
+Barrow upon Humber,bearu,53.67,-0.374,False,0,0,0,91,0.101,0.404,0.91
+Barrow Upon Soar,bearu,52.752,-1.15,False,0,0,0,6,0.007,0.027,0.06
+Barrow upon Trent,bearu,52.853,-1.474,False,0,1,3,30,0.033,0.133,0.3
+Barrowford Booth,bearu,53.852,-2.222,False,0,0,0,40,0.044,0.178,0.4
+Beer Crocombe,bearu,50.98,-2.963,False,0,0,0,67,0.074,0.298,0.67
+Beer Hacket,bearu,50.902,-2.577,False,0,0,0,359,0.399,1.596,3.59
+Beer Hackett,bearu,50.905,-2.571,False,0,0,0,360,0.4,1.6,3.6
+Bere Ferrers,bearu,50.451,-4.178,False,0,0,0,246,0.273,1.093,2.46
+Bere Fm,bearu,50.742,-2.083,False,0,0,0,571,0.634,2.538,5.71
+Bere Regis,bearu,50.753,-2.216,False,0,10,27,659,0.732,2.929,6.59
+Bere Regis,bearu,50.75,-2.221,False,4,9,28,661,0.734,2.938,6.61
+Colber Crib House,bearu,50.932,-2.314,False,0,0,0,490,0.544,2.178,4.9
+Halberton,bearu,50.912,-3.417,False,0,1,2,140,0.156,0.622,1.4
+Haselbury Bryan,bearu,50.874,-2.35,False,0,0,0,640,0.711,2.844,6.4
+Haselbury Bryan,bearu,50.875,-2.364,False,0,0,0,620,0.689,2.756,6.2
+Haselbury Plucknett,bearu,50.892,-2.748,False,0,0,0,240,0.267,1.067,2.4
+Ilsington Wood,bearu,50.733,-2.348,False,1,5,8,593,0.659,2.636,5.93
+Kentisbeare,bearu,50.868,-3.33,False,0,0,0,105,0.117,0.467,1.05
+Loxbeare,bearu,50.938,-3.546,False,0,0,0,110,0.122,0.489,1.1
+Middlebere Farm,bearu,50.678,-2.046,False,0,2,2,462,0.513,2.053,4.62
+Mooresbarrow with Parme,bearu,53.177,-2.383,False,0,0,0,49,0.054,0.218,0.49
+North and South Barrow,bearu,51.064,-2.565,False,0,0,0,240,0.267,1.067,2.4
+Old Barford,bearu,50.799,-2.052,False,0,0,1,570,0.633,2.533,5.7
+Orlingbury,bearu,52.344,-0.732,False,0,0,0,17,0.019,0.076,0.17
+Plumber Farm,bearu,50.906,-2.325,False,0,0,0,616,0.684,2.738,6.16
+Poulton Bare and Torrisholme,bearu,54.074,-2.834,False,1,1,1,14,0.016,0.062,0.14
+Ramsbury,bearu,50.903,-2.375,False,0,0,0,578,0.642,2.569,5.78
+Rockbeare,bearu,50.751,-3.383,False,0,0,0,75,0.083,0.333,0.75
+Seaton and Beer,bearu,50.709,-3.071,False,0,0,0,72,0.08,0.32,0.72
+Sedgeberrow,bearu,52.045,-1.965,False,0,0,0,99,0.11,0.44,0.99
+Shebbear,bearu,50.864,-4.211,False,0,0,1,172,0.191,0.764,1.72
+Timsbury,bearu,51.325,-2.482,False,0,0,0,290,0.322,1.289,2.9
+Todber,bearu,50.98,-2.286,False,0,0,0,442,0.491,1.964,4.42
+Todber,bearu,50.984,-2.293,False,0,0,0,437,0.486,1.942,4.37
