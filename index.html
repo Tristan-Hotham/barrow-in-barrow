@@ -179,6 +179,6 @@ Promise.all([fetch('data/places.json').then(r=>r.json()), fetch('data/barrows.js
   document.querySelectorAll('#layers input').forEach(i => i.onchange = () => { const lg = layers[i.dataset.k][0]; i.checked ? lg.addTo(map) : map.removeLayer(lg); });
 });
 </script>
-<script src="https://tristan-hotham.github.io/assets/site-nav.js" defer></script>
+<script src="/assets/site-nav.js" defer></script>
 </body>
 </html>
